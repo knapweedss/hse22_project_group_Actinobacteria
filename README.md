@@ -11,3 +11,5 @@
 |Темкин	Влад | Gordonia | https://github.com/zlatovladdka/hse22_project |
 |Шишкин	Михаил | Cellulomonas | https://github.com/TesMichelle/hse22_project_minor |
 |Ширма	Кирилл |Nocardioides | https://github.com/ruct/hse22_bioinfo_project |
+
+### Ссылка на групповой colab: https://colab.research.google.com/drive/1vDN8I0Sv7V2_vPfEJi_dsVLNZ8iT7a9s?usp=sharing
