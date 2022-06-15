@@ -1,4 +1,4 @@
-# hse22_project_group_Actinomyces
+# hse22_project_group_Actinobacteria
 Итоговый проект по Биоинформатике, групповая часть
 
 | Участник | Род | Ссылка на индивидуальную часть |
@@ -12,4 +12,6 @@
 |Шишкин	Михаил | Cellulomonas | https://github.com/TesMichelle/hse22_project_minor |
 |Ширма	Кирилл |Nocardioides | https://github.com/ruct/hse22_bioinfo_project |
 |Валиев	Алы | Mycolicibacterium | https://github.com/Kalick153/hse22_project|
+|Свинцов Михаил | Microbacterium | https://github.com/SvMixa/hse22_project|
+|  |  | |
 ### Ссылка на групповой colab: https://colab.research.google.com/drive/1vDN8I0Sv7V2_vPfEJi_dsVLNZ8iT7a9s?usp=sharing
