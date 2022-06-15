@@ -2,7 +2,7 @@
 Итоговый проект по Биоинформатике, групповая часть
 
 | Участник | Род | Ссылка на индивидуальную часть |
-|----|----|----|
+| ------ |-----| -----|
 
 |Бардонов	Даниил | Leucobacter | https://github.com/dabardonov/hse22_project |
 |Васильева	Виктория |  Bifidobacterium | https://github.com/viktoria210/hse22_project |
