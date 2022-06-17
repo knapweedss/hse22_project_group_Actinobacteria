@@ -17,3 +17,6 @@
 ### Ссылка на групповой colab: https://colab.research.google.com/drive/1vDN8I0Sv7V2_vPfEJi_dsVLNZ8iT7a9s?usp=sharing
 
 ### Colab с визуализацией Z-ДНК и подготовкой файлов для выравнивания: https://colab.research.google.com/drive/1-2Xgji44ccVU7_Z7okIGYO_Z4GO7Zl8f?usp=sharing
+
+## Heatmap
+![]data/1.jpg
