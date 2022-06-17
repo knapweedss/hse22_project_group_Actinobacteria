@@ -19,4 +19,4 @@
 ### Colab с визуализацией Z-ДНК и подготовкой файлов для выравнивания: https://colab.research.google.com/drive/1-2Xgji44ccVU7_Z7okIGYO_Z4GO7Zl8f?usp=sharing
 
 ## Heatmap
-![]data/1.jpg
+![](data/1.jpg)
