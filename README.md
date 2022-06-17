@@ -32,4 +32,4 @@
 ![](data/clust6.png)
 
 ## Выравнивание
-![](data/allign.png)
+![](data/allign.PNG)
