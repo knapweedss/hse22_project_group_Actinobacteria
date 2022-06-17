@@ -1,0 +1,1634 @@
+,Имя,Число генов,Число геномов,Число генов с Z-DNA в промотере,Максимальный Z-Score,Средний Z-Score
+0,50S ribosomal protein L36,24,50,3,28780.5,10424.469666666666
+1,50S ribosomal protein L34,37,50,37,198956.2,25829.623862162167
+2,30S ribosomal protein S19,40,50,9,8485.756,2550.5927666666666
+3,acyl carrier protein,42,50,9,23787.35,3908.2580333333335
+4,type B 50S ribosomal protein L31,59,50,24,13072.54,1627.2826875000003
+5,50S ribosomal protein L33,38,50,22,27872.66,5771.888663636364
+6,30S ribosomal protein S11,42,50,36,10894.72,3180.4613777777777
+7,50S ribosomal protein L11,45,50,13,8411.479,2346.562523076923
+8,30S ribosomal protein S18,51,50,23,38833.58,3789.7759739130443
+9,30S ribosomal protein S20,46,50,38,198956.2,14597.994410526313
+10,DUF2469 domain-containing protein,44,50,20,198956.2,11754.535255
+11,WhiB family transcriptional regulator,38,50,24,49376.54,8080.226929166667
+12,DUF3117 domain-containing protein,40,50,17,10894.72,1864.8740647058826
+13,50S ribosomal protein L20,46,50,40,10894.72,1365.419177500001
+14,helix-turn-helix domain-containing protein,47,50,31,48804.94,6392.454687096773
+15,permease-like cell division protein FtsX,45,50,22,16271.57,3039.240345454546
+16,30S ribosomal protein S15,45,50,12,2802.356,1628.4207000000004
+17,F0F1 ATP synthase subunit beta,45,50,28,13713.99,1756.5247178571433
+18,cold-shock protein,90,50,13,3993.322,1537.3154692307692
+19,DUF3073 domain-containing protein,45,50,28,8922.646,2039.633932142857
+20,50S ribosomal protein L9,47,50,26,13713.99,5395.038419230769
+21,50S ribosomal protein L28,38,50,14,27872.66,4376.574128571429
+22,30S ribosomal protein S14,40,50,20,3428.529,1277.1908700000004
+23,30S ribosomal protein S12,43,50,36,46858.52,5829.87716388889
+24,30S ribosomal protein S7,42,50,21,2752.447,1604.9001523809527
+25,30S ribosomal protein S3,44,50,14,302785.5,31920.485542857146
+26,50S ribosomal protein L29,41,50,29,13713.99,2270.939155172414
+27,30S ribosomal protein S17,41,50,30,3428.529,1312.7036000000003
+28,50S ribosomal protein L14,40,50,21,6017.919,1747.0342666666666
+29,30S ribosomal protein S8,46,50,24,66470.78,5067.780620833334
+30,50S ribosomal protein L18,46,50,38,48804.94,6348.6485394736865
+31,50S ribosomal protein L30,42,50,36,211093.9,16029.93853888889
+32,translation initiation factor IF-1,30,50,11,13713.99,2831.222627272728
+33,30S ribosomal protein S13,44,50,31,50885.97,8043.054177419351
+34,response regulator,42,50,19,13713.99,2824.802852631579
+35,50S ribosomal protein L27,44,50,10,3428.529,1951.3537200000003
+36,tRNA (adenosine(37)-N6)-threonylcarbamoyltransferase complex dimerization subunit type 1 TsaB,47,50,27,13713.99,2124.3911185185184
+37,RNA polymerase sigma factor,41,50,26,13713.99,2599.2587615384623
+38,FHA domain-containing protein,47,50,28,49376.54,4132.59155
+39,FtsW/RodA/SpoVE family cell cycle protein,47,50,28,16271.57,2421.817614285714
+40,Stk1 family PASTA domain-containing Ser/Thr kinase,43,50,20,13713.99,4663.561180000001
+41,cell division protein CrgA,37,50,16,38833.58,5282.18315625
+42,rhomboid family intramembrane serine protease,46,50,24,8485.756,1853.1078125000001
+43,peptidylprolyl isomerase,47,50,19,48804.94,3583.2344473684216
+44,alpha/beta hydrolase,43,50,27,138924.1,9549.266911111112
+45,alpha/beta-hydrolase family protein,37,50,15,16271.57,2657.477046666667
+46,DNA topoisomerase (ATP-hydrolyzing) subunit B,46,50,25,211093.9,11557.373092000002
+47,DNA replication/repair protein RecF,47,50,20,28780.5,2892.7874899999997
+48,DNA polymerase III subunit beta,46,50,21,4860.206,1712.6387523809522
+49,single-stranded DNA-binding protein,42,50,17,6565.992,1936.6211000000005
+50,16S rRNA (guanine(527)-N(7))-methyltransferase RsmG,48,50,19,138924.1,9920.458236842103
+51,thioredoxin,53,50,17,13713.99,2337.280217647059
+52,30S ribosomal protein S6,44,50,18,17253.57,3287.7972388888893
+53,single-stranded DNA-binding protein,51,50,18,4171.37,1208.358411111111
+54,chlorite dismutase family protein,46,50,27,198956.2,9168.578525925926
+55,adenylosuccinate lyase,47,50,21,138924.1,16865.788509523813
+56,low molecular weight phosphotyrosine protein phosphatase,43,50,23,74987.35,5910.9842
+57,phage holin family protein,46,50,32,211093.9,16636.515278125004
+58,pyruvate dehydrogenase (acetyl-transferring) E1 component subunit alpha,35,50,22,38833.58,5497.522131818183
+59,3-hydroxyacyl-CoA dehydrogenase,48,50,25,37878.25,5202.913196000001
+60,thioesterase family protein,36,50,16,9852.15,1847.2592937500003
+61,amino acid ABC transporter ATP-binding protein,58,50,24,302785.5,14995.044725
+62,amino acid ABC transporter permease,40,50,11,13713.99,3078.1213000000002
+63,cation diffusion facilitator family transporter,56,50,36,27872.66,3291.0632805555556
+64,GntR family transcriptional regulator,34,50,15,49376.54,7946.14722
+65,CoA-acylating methylmalonate-semialdehyde dehydrogenase,38,50,17,38833.58,5237.884188235295
+66,sugar porter family MFS transporter,32,50,20,37878.25,4990.43843
+67,sn-glycerol-3-phosphate ABC transporter ATP-binding protein UgpC,48,50,13,6565.992,1792.0051923076921
+68,carbohydrate ABC transporter permease,44,50,19,138924.1,13173.083210526316
+69,ATP-binding cassette domain-containing protein,43,50,20,23787.35,5939.149339999999
+70,metal ABC transporter permease,41,50,35,37878.25,6320.088345714285
+71,transcriptional repressor,46,50,36,50885.97,4502.141177777777
+72,LamB/YcsF family protein,44,50,23,28780.5,6108.1403
+73,dCTP deaminase,46,50,29,8485.756,1448.8852827586202
+74,phenylacetate-CoA oxygenase/reductase subunit PaaK,34,50,13,13713.99,3478.3757384615383
+75,3-hydroxybutyryl-CoA dehydrogenase,51,50,39,48804.94,6978.913561538463
+76,alpha-ketoacid dehydrogenase subunit beta,55,50,36,8323.257,1705.377236111111
+77,quinone oxidoreductase,33,50,20,8922.646,2788.88555
+78,alpha/beta hydrolase,40,50,26,8922.646,2083.1891346153843
+79,amidohydrolase,28,50,22,138924.1,7973.499977272728
+80,histidinol-phosphate transaminase,49,50,30,211093.9,10769.081699999997
+81,Lrp/AsnC family transcriptional regulator,33,50,22,138924.1,14223.378254545452
+82,tyrosine-protein phosphatase,34,50,20,13713.99,2912.8552350000004
+83,ATP-binding cassette domain-containing protein,32,50,11,3917.174,1677.7105272727274
+84,ABC transporter permease,32,50,19,28780.5,3307.147205263158
+85,cytidine deaminase,40,50,27,21732.38,3326.5365740740735
+86,DoxX family protein,36,50,19,8922.646,2245.9920315789473
+87,MarR family transcriptional regulator,31,50,16,13713.99,2796.33024375
+88,thiamine-binding protein,37,50,23,8922.646,3533.9071695652174
+89,potassium-transporting ATPase subunit KdpA,28,50,13,8922.646,2291.0317692307694
+90,potassium-transporting ATPase subunit KdpB,25,50,11,13713.99,2647.402845454546
+91,"1,4-dihydroxy-2-naphthoyl-CoA synthase",48,50,30,302785.5,15890.311313333334
+92,AMP-binding protein,46,50,30,138924.1,6799.2419366666645
+93,"1,4-dihydroxy-2-naphthoate polyprenyltransferase",46,50,35,211093.9,7938.906008571426
+94,glutaredoxin-like protein NrdH,43,50,16,17718.99,4258.2203375
+95,class 1b ribonucleoside-diphosphate reductase subunit beta,42,50,15,49376.54,4728.20018
+96,histidine kinase,31,50,19,27872.66,4392.94055263158
+97,DUF3817 domain-containing protein,40,50,23,138924.1,8253.096786956521
+98,acetyl-CoA C-acetyltransferase,41,50,27,68804.91,6330.8635814814825
+99,CoA transferase subunit A,46,50,20,211093.9,14170.16433
+100,ATP-dependent chaperone ClpB,45,50,20,29467.88,2706.25769
+101,helix-turn-helix domain-containing protein,40,50,27,9300.843,1539.3577370370363
+102,methylated-DNA--[protein]-cysteine S-methyltransferase,48,50,24,13713.99,2502.551091666666
+103,molecular chaperone DnaK,47,50,25,27872.66,2656.7997280000004
+104,nucleotide exchange factor GrpE,45,50,13,4615.4,2024.6283000000003
+105,uracil phosphoribosyltransferase,46,50,32,7973.084,1828.947490625
+106,glutaredoxin family protein,45,50,36,138924.1,12256.605663888888
+107,asparaginase,36,50,10,46858.52,6504.92753
+108,XRE family transcriptional regulator,38,50,28,27872.66,4176.893775
+109,NAD(P)/FAD-dependent oxidoreductase,40,50,22,37878.25,4674.232886363637
+110,TlpA family protein disulfide reductase,54,50,23,29467.88,6439.27279130435
+111,demethylmenaquinone methyltransferase,47,50,34,13939.35,2273.381282352942
+112,response regulator transcription factor,55,50,42,211093.9,16005.566402380953
+113,NAD-dependent deacetylase,45,50,33,65884.11,7072.243830303029
+114,gamma-glutamyltransferase,38,50,24,138924.1,9861.76915
+115,HAD-IIA family hydrolase,36,50,24,211093.9,14507.40183333333
+116,serine--tRNA ligase,46,50,31,28780.5,5643.3371290322575
+117,LLM class flavin-dependent oxidoreductase,46,50,31,29467.88,3583.6769129032264
+118,ATP-grasp domain-containing protein,48,50,27,29467.88,4551.733400000001
+119,thioredoxin,42,50,15,13713.99,2081.7426800000007
+120,ABC transporter ATP-binding protein,56,50,35,38833.58,5509.077888571429
+121,3-methyl-2-oxobutanoate hydroxymethyltransferase,40,50,32,65884.11,5151.629156249998
+122,serine hydroxymethyltransferase,54,50,23,198956.2,15113.091095652175
+123,VTT domain-containing protein,38,50,21,28780.5,3816.920085714285
+124,metal-sensitive transcriptional regulator,48,50,27,8485.756,2450.697751851852
+125,glucosamine-6-phosphate deaminase,33,50,20,13713.99,3183.8819900000003
+126,50S ribosomal protein L10,47,50,25,66470.78,10977.634832
+127,50S ribosomal protein L7/L12,45,50,13,13713.99,2827.371607692308
+128,ABC transporter ATP-binding protein/permease,46,50,22,8922.646,1641.753759090909
+129,phosphate acetyltransferase,32,50,19,38833.58,4343.491384210527
+130,acetate kinase,38,50,22,3428.529,1279.597804545455
+131,recombination mediator RecR,47,50,27,3713.33,1487.4930851851848
+132,aspartate kinase,45,50,24,13713.99,2514.2682208333335
+133,aspartate-semialdehyde dehydrogenase,46,50,34,27872.66,3849.8603911764712
+134,metallophosphoesterase,45,50,23,38833.58,3565.6556739130438
+135,DUF4177 domain-containing protein,45,50,20,302785.5,30492.626195000008
+136,RidA family protein,47,50,21,3428.529,1305.4706285714287
+137,acetate--CoA ligase,43,50,23,50885.97,3425.108030434784
+138,phosphoribosylformylglycinamidine synthase subunit PurQ,47,50,39,138924.1,6428.575658974359
+139,AMP-binding protein,26,50,20,50885.97,8001.63723
+140,VOC family protein,31,50,14,17253.57,3957.907907142857
+141,sterol carrier family protein,47,50,29,13713.99,2702.751772413793
+142,amidophosphoribosyltransferase,46,50,20,66470.78,8982.01635
+143,phosphoribosylformylglycinamidine cyclo-ligase,46,50,30,28780.5,3266.39116
+144,"2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase",41,50,27,138924.1,7955.569092592593
+145,2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase,42,50,23,66470.78,8541.419899999999
+146,response regulator transcription factor,47,50,13,38833.58,6134.753646153847
+147,phosphate signaling complex protein PhoU,43,50,26,50885.97,5008.904684615385
+148,cysteine--tRNA ligase,47,50,26,198956.2,15278.424203846154
+149,23S rRNA (guanosine(2251)-2'-O)-methyltransferase RlmB,47,50,27,28780.5,4804.270418518519
+150,heavy-metal-associated domain-containing protein,39,50,15,8922.646,2342.18866
+151,YlxR family protein,45,50,31,38833.58,5852.04946451613
+152,VOC family protein,33,50,17,28780.5,3640.9540941176474
+153,helix-turn-helix transcriptional regulator,35,50,26,138924.1,15835.308746153847
+154,30S ribosome-binding factor RbfA,46,50,29,50885.97,5823.522951724137
+155,A/G-specific adenine glycosylase,47,50,24,38833.58,9368.2312625
+156,AI-2E family transporter,38,50,27,37878.25,3552.8090259259257
+157,threonine ammonia-lyase,55,50,34,28780.5,4776.69051764706
+158,transcription elongation factor GreA,46,50,19,8485.756,1862.9231368421051
+159,hemolysin III family protein,48,50,27,16271.57,3474.852229629629
+160,isoprenyl transferase,47,50,28,13939.35,2744.7912714285717
+161,nucleosidase,26,50,15,28780.5,4513.883746666668
+162,Hsp20/alpha crystallin family protein,41,50,12,3713.33,1742.559991666667
+163,argininosuccinate lyase,47,50,23,16739.64,4451.431313043479
+164,cytosine permease,33,50,8,5351.021,2878.280625
+165,HAD-IIA family hydrolase,43,50,9,4263.555,1917.947311111111
+166,TlyA family RNA methyltransferase,47,50,36,65884.11,5206.7831166666665
+167,DNA repair protein RecN,46,50,20,211093.9,18743.709155000004
+168,AI-2E family transporter,30,50,16,9721.919,2496.6086124999997
+169,NUDIX hydrolase,47,50,29,8485.756,2428.827779310345
+170,site-specific tyrosine recombinase XerD,45,50,29,29467.88,5042.538055172415
+171,tyrosine recombinase XerC,44,50,28,49376.54,6690.328339285714
+172,ParA family protein,47,50,25,38833.58,5436.594048000002
+173,segregation/condensation protein A,43,50,29,13713.99,3096.000620689654
+174,(d)CMP kinase,43,50,32,37878.25,4400.794093750002
+175,ribonuclease E activity regulator RraA,28,50,10,13713.99,2362.6655400000004
+176,Cys-tRNA(Pro) deacylase,34,50,25,65884.11,5607.865315999999
+177,glutaminase A,36,50,14,198956.2,20427.487492857144
+178,TIGR01777 family oxidoreductase,52,50,32,138924.1,9009.034524999997
+179,MMPL family transporter,50,50,26,18180.95,3440.417250000001
+180,CsbD family protein,35,50,11,3428.529,1135.9566545454547
+181,carbon-nitrogen hydrolase family protein,50,50,33,68804.91,9418.46004848485
+182,phosphatase PAP2 family protein,26,50,18,38833.58,4684.3919000000005
+183,DNA-directed RNA polymerase subunit beta,47,50,28,28780.5,4046.9791678571432
+184,elongation factor G,47,50,6,3428.529,1159.6958166666666
+185,elongation factor Tu,44,50,21,29467.88,2424.281900000001
+186,50S ribosomal protein L4,45,50,13,13713.99,6922.52476153846
+187,50S ribosomal protein L23,43,50,22,1469.169,902.5659863636366
+188,50S ribosomal protein L16,43,50,21,3993.322,1489.2459952380955
+189,50S ribosomal protein L24,44,50,15,2779.551,1241.4416733333337
+190,50S ribosomal protein L5,46,50,23,21732.38,3613.0455086956536
+191,50S ribosomal protein L6,47,50,9,2640.374,935.5716222222222
+192,30S ribosomal protein S5,46,50,17,3428.529,1124.0259588235294
+193,50S ribosomal protein L15,46,50,16,8922.646,2174.8899625000004
+194,preprotein translocase subunit SecY,47,50,9,49376.54,7310.590711111111
+195,DNA-directed RNA polymerase subunit alpha,47,50,7,2997.09,1094.699057142857
+196,50S ribosomal protein L17,45,50,14,13713.99,1935.4317428571433
+197,50S ribosomal protein L13,46,50,34,198956.2,11826.380002941181
+198,30S ribosomal protein S9,47,50,29,9721.919,2114.7315379310344
+199,phosphoglucosamine mutase,46,50,28,211093.9,11051.89642142857
+200,glutamine--fructose-6-phosphate transaminase (isomerizing),47,50,29,211093.9,13194.30287586207
+201,holo-ACP synthase,42,50,22,28780.5,5338.922431818182
+202,ribosomal protein S18-alanine N-acetyltransferase,46,50,28,28780.5,5378.115985714286
+203,tRNA (adenosine(37)-N6)-threonylcarbamoyltransferase complex transferase subunit TsaD,46,50,31,10272.33,2414.4276290322587
+204,class I SAM-dependent methyltransferase,45,50,25,27872.66,4557.886232000001
+205,co-chaperone GroES,43,50,12,2752.447,1285.6688166666665
+206,EamA family transporter RarD,43,50,27,10616.46,2027.8067037037033
+207,IMP dehydrogenase,46,50,20,38833.58,5921.185085
+208,GuaB3 family IMP dehydrogenase-related protein,47,50,39,302785.5,44439.77377692307
+209,DUF3817 domain-containing protein,45,50,26,13713.99,3308.3864730769233
+210,glutamine-hydrolyzing GMP synthase,47,50,41,29467.88,7576.978753658537
+211,Bax inhibitor-1/YccA family protein,46,50,21,211093.9,11589.474419047621
+212,glycerophosphodiester phosphodiesterase,42,50,20,138924.1,8924.818180000002
+213,ABC transporter ATP-binding protein,38,50,18,13713.99,2314.2032055555555
+214,ABC transporter ATP-binding protein,30,50,14,38833.58,7499.462471428573
+215,BCCT family transporter,38,50,12,4263.555,1720.262216666667
+216,formyltetrahydrofolate deformylase,49,50,25,10272.33,2084.2080240000005
+217,glutathione-dependent formaldehyde dehydrogenase,26,50,17,12351.13,4080.6727352941184
+218,zinc-dependent alcohol dehydrogenase family protein,34,50,28,21732.38,2945.6164392857145
+219,phosphoribosylglycinamide formyltransferase,43,50,31,198956.2,7963.328000000002
+220,bifunctional phosphoribosylaminoimidazolecarboxamide formyltransferase/IMP cyclohydrolase,45,50,33,38833.58,4131.497239393941
+221,hypothetical protein,43,50,21,6090.891,1647.1827523809525
+222,DEAD/DEAH box helicase,50,50,38,38833.58,5568.482589473685
+223,ABC transporter permease,37,50,25,13713.99,3973.629224
+224,ABC transporter permease,30,50,16,3428.529,1544.65526875
+225,aminotransferase class I/II-fold pyridoxal phosphate-dependent enzyme,42,50,29,13713.99,2740.221355172414
+226,sodium:proton antiporter,37,50,17,8922.646,1956.8939823529415
+227,DEAD/DEAH box helicase,46,50,23,74987.35,7267.212552173914
+228,deoxyribose-phosphate aldolase,42,50,19,17253.57,4030.3335789473686
+229,helix-turn-helix transcriptional regulator,51,50,31,29467.88,4951.366961290323
+230,amino acid permease,34,50,12,27872.66,4230.484716666667
+231,large conductance mechanosensitive channel protein MscL,46,50,12,9492.083,2590.3285666666666
+232,GuaB1 family IMP dehydrogenase-related protein,39,50,23,27872.66,3426.2064000000005
+233,3-isopropylmalate dehydrogenase,47,50,20,13713.99,2604.31074
+234,branched-chain amino acid aminotransferase,47,50,27,13713.99,2695.841066666667
+235,fumarylacetoacetate hydrolase family protein,47,50,29,13713.99,2315.142693103448
+236,glutamate--cysteine ligase,47,50,29,28780.5,2872.717444827586
+237,glutamate--cysteine ligase,26,50,17,38833.58,6150.619329411764
+238,transcriptional regulator,30,50,25,198956.2,14026.841192
+239,DUF779 domain-containing protein,28,50,13,9852.15,2804.5014846153845
+240,MFS transporter,26,50,16,68804.91,10879.225131250001
+241,glutamate--tRNA ligase,46,50,38,65884.11,5382.901157894738
+242,Na+/H+ antiporter subunit A,40,50,22,27872.66,3148.4171499999998
+243,Na(+)/H(+) antiporter subunit C,39,50,26,13713.99,3051.4083076923075
+244,FHA domain-containing protein,45,50,21,28780.5,3483.747533333334
+245,MerR family transcriptional regulator,44,50,18,16271.57,3882.0483388888897
+246,long-chain fatty acid--CoA ligase,68,50,36,211093.9,13987.056833333334
+247,DUF3040 domain-containing protein,47,50,31,13713.99,2198.551032258065
+248,division/cell wall cluster transcriptional repressor MraZ,46,50,12,3738.179,1732.1367333333335
+249,16S rRNA (cytosine(1402)-N(4))-methyltransferase RsmH,47,50,24,28780.5,3035.1881458333337
+250,"UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--2,6-diaminopimelate ligase",46,50,26,28780.5,2734.012384615385
+251,UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase,46,50,23,198956.2,16410.15222608696
+252,phospho-N-acetylmuramoyl-pentapeptide-transferase,49,50,15,37878.25,5474.417826666669
+253,UDP-N-acetylmuramoyl-L-alanine--D-glutamate ligase,47,50,27,138924.1,9510.31201851852
+254,putative lipid II flippase FtsW,50,50,35,38833.58,5639.371660000002
+255,UDP-N-acetylmuramate--L-alanine ligase,47,50,36,138924.1,9719.126583333333
+256,cell division protein FtsZ,46,50,6,2779.551,1830.1634333333334
+257,YggS family pyridoxal phosphate-dependent enzyme,51,50,36,198956.2,9472.065744444446
+258,cell division protein SepF,46,50,18,46858.52,4737.361794444445
+259,YggT family protein,46,50,24,13713.99,2697.1846
+260,DivIVA domain-containing protein,40,50,13,3661.11,1569.912130769231
+261,RluA family pseudouridine synthase,46,50,30,211093.9,29237.85061333334
+262,energy-dependent translational throttle protein EttA,46,50,32,38833.58,6696.954793750001
+263,acyl-CoA thioesterase,66,50,50,198956.2,7159.937212000002
+264,acyl-CoA thioesterase II,53,50,36,10894.72,3196.878552777778
+265,DNA-directed RNA polymerase subunit omega,44,50,27,38833.58,9427.071737037037
+266,methionine adenosyltransferase,47,50,15,13713.99,3181.64692
+267,methionyl-tRNA formyltransferase,46,50,28,38833.58,4399.338210714287
+268,rRNA small subunit methyltransferase B,45,50,40,138924.1,5723.8002725
+269,ribulose-phosphate 3-epimerase,46,50,26,198956.2,10453.532784615389
+270,phosphoribosyl-ATP diphosphatase,47,50,36,211093.9,10469.88635277778
+271,ATP phosphoribosyltransferase,46,50,18,10616.46,1694.892366666667
+272,phosphoribosyl-AMP cyclohydrolase,47,50,24,49376.54,7174.848070833334
+273,anthranilate synthase component I,42,50,30,38833.58,6329.869246666668
+274,tryptophan synthase subunit alpha,46,50,25,2659.79,1114.9195120000002
+275,prolipoprotein diacylglyceryl transferase,44,50,31,49376.54,7704.685677419356
+276,pyruvate kinase,50,50,25,13939.35,2231.15298
+277,SulP family inorganic anion transporter,37,50,20,28780.5,3083.71479
+278,30S ribosomal protein S1,43,50,18,28780.5,4870.889305555556
+279,50S ribosomal protein L21,45,50,32,37878.25,4867.337678125001
+280,RecQ family ATP-dependent DNA helicase,39,50,22,13713.99,3564.37365
+281,CrcB family protein,34,50,24,13713.99,2586.7071041666663
+282,FAD-binding protein,49,50,25,13713.99,2094.988968
+283,tRNA glutamyl-Q(34) synthetase GluQRS,30,50,12,13713.99,2339.929983333333
+284,metal ABC transporter ATP-binding protein,31,50,15,38833.58,4110.436686666667
+285,metal ABC transporter substrate-binding protein,48,50,30,198956.2,12440.538503333337
+286,undecaprenyl-diphosphate phosphatase,47,50,27,46858.52,5448.383496296296
+287,cysteine--1-D-myo-inosityl 2-amino-2-deoxy-alpha-D-glucopyranoside ligase,40,50,13,38833.58,5008.982592307692
+288,HAD family phosphatase,48,50,19,9492.083,2154.016084210526
+289,WYL domain-containing protein,46,50,21,138924.1,15270.82221904762
+290,WYL domain-containing protein,46,50,37,27872.66,2874.959154054055
+291,dihydrofolate reductase family protein,42,50,23,27872.66,3478.856213043478
+292,RNA polymerase-binding protein RbpA,46,50,17,3428.529,1500.2747294117648
+293,glutamate synthase subunit beta,45,50,33,68804.91,6709.2256272727245
+294,transcriptional regulator NrdR,46,50,32,13713.99,2611.02895625
+295,quinone-dependent dihydroorotate dehydrogenase,47,50,32,38833.58,7273.228987499998
+296,DUF3043 domain-containing protein,47,50,26,302785.5,15138.40046923077
+297,cytochrome c oxidase subunit 4,45,50,15,3512.018,1408.8184400000002
+298,magnesium and cobalt transport protein CorA,48,50,34,211093.9,8243.204576470584
+299,ubiquinol-cytochrome c reductase iron-sulfur subunit,44,50,12,28780.5,3207.4141416666666
+300,RNA methyltransferase,46,50,20,28780.5,4257.91538
+301,3'-5' exonuclease,24,50,16,3993.322,1771.3119375
+302,ABC transporter ATP-binding protein,46,50,19,8485.756,2326.0523105263164
+303,phosphoserine phosphatase SerB,38,50,25,48804.94,5551.330544000001
+304,isocitrate lyase/phosphoenolpyruvate mutase family protein,28,50,17,7973.084,2039.982029411765
+305,beta-ketoacyl-ACP reductase,40,50,20,4831.423,1426.8366550000007
+306,Fe-S cluster assembly ATPase SufC,47,50,16,2883.764,1265.587225
+307,non-heme iron oxygenase ferredoxin subunit,33,50,18,13713.99,3888.2672833333327
+308,Fe-S cluster assembly protein SufD,46,50,31,49376.54,5376.489674193549
+309,Fe-S cluster assembly protein SufB,46,50,18,48804.94,4371.08495
+310,heme o synthase,45,50,33,49376.54,4933.796354545455
+311,transaldolase,44,50,20,13713.99,2240.367845
+312,preprotein translocase subunit SecG,47,50,6,13713.99,4715.598033333333
+313,phosphoglycerate kinase,47,50,17,10272.33,3635.1027705882357
+314,superoxide dismutase,46,50,14,94590.41,15087.582471428574
+315,DNA-binding protein WhiA,45,50,20,38833.58,4266.98915
+316,excinuclease ABC subunit UvrC,43,50,25,65884.11,5521.971740000001
+317,excinuclease ABC subunit UvrB,47,50,32,38833.58,4182.731575
+318,serine hydrolase,40,50,22,13713.99,1933.5972136363634
+319,winged helix DNA-binding domain-containing protein,38,50,33,27872.66,2699.36190909091
+320,nucleoside-diphosphate kinase,47,50,29,13713.99,3138.757510344829
+321,bifunctional folylpolyglutamate synthase/dihydrofolate synthase,47,50,29,138924.1,14298.134427586205
+322,isoleucine--tRNA ligase,46,50,22,198956.2,12008.644531818183
+323,ATP-dependent Clp protease ATP-binding subunit ClpX,46,50,23,10894.72,1944.0887739130437
+324,ATP-dependent Clp protease proteolytic subunit,47,50,22,17253.57,2728.79925
+325,ATP-dependent Clp protease proteolytic subunit,46,50,25,48804.94,4533.470143999999
+326,tRNA dihydrouridine synthase DusB,46,50,25,38833.58,4214.255628
+327,isoprenyl transferase,47,50,27,13713.99,2692.139144444445
+328,DNA repair protein RecO,47,50,38,28780.5,2544.2947289473695
+329,crossover junction endodeoxyribonuclease RuvC,46,50,36,65884.11,6904.306286111112
+330,YebC/PmpR family DNA-binding transcriptional regulator,46,50,17,13713.99,2724.332947058824
+331,threonine--tRNA ligase,45,50,22,13713.99,2454.15925
+332,SDR family oxidoreductase,31,50,20,17253.57,3232.847489999999
+333,DUF3000 domain-containing protein,46,50,40,48804.94,3343.7829625
+334,HRDC domain-containing protein,47,50,25,38833.58,2523.3462200000004
+335,thiolase family protein,32,50,25,18247.98,2871.341584
+336,3-hydroxyacyl-CoA dehydrogenase NAD-binding domain-containing protein,49,50,27,50885.97,6621.415488888888
+337,1-deoxy-D-xylulose-5-phosphate synthase,47,50,24,28780.5,3310.010733333333
+338,aconitate hydratase AcnA,47,50,16,38833.58,7363.0824437500005
+339,DUF3093 domain-containing protein,47,50,18,50885.97,5777.414227777777
+340,DUF4193 domain-containing protein,46,50,19,66470.78,5763.3611684210555
+341,alkaline phosphatase family protein,39,50,20,13713.99,2308.09748
+342,dihydrolipoyl dehydrogenase,64,50,39,13713.99,2590.4586384615386
+343,"2-oxoglutarate dehydrogenase, E2 component, dihydrolipoamide succinyltransferase",41,50,19,21732.38,4208.330405263158
+344,DUF4191 domain-containing protein,46,50,29,38833.58,3880.956727586209
+345,RDD family protein,45,50,23,13713.99,2505.2343826086963
+346,bifunctional [glutamine synthetase] adenylyltransferase/[glutamine synthetase]-adenylyl-L-tyrosine phosphorylase,46,50,23,13713.99,4561.117395652174
+347,type I glutamate--ammonia ligase,45,50,29,29467.88,5009.912986206897
+348,type I methionyl aminopeptidase,39,50,21,12723.6,2455.664714285714
+349,C4-type zinc ribbon domain-containing protein,47,50,30,66470.78,4142.5426099999995
+350,ABC transporter permease,37,50,15,38833.58,4646.1681266666665
+351,MetQ/NlpA family ABC transporter substrate-binding protein,41,50,18,29467.88,5022.823316666666
+352,glutathione peroxidase,30,50,16,17253.57,5439.83560625
+353,PadR family transcriptional regulator,42,50,30,13713.99,2099.710833333333
+354,dihydrofolate reductase family protein,38,50,18,16770.32,2319.444294444444
+355,peroxiredoxin,33,50,22,46858.52,4651.638918181819
+356,helix-turn-helix domain-containing protein,41,50,21,29467.88,3788.3175523809527
+357,ACP S-malonyltransferase,40,50,13,28780.5,5287.789553846154
+358,ketoacyl-ACP synthase III,39,50,24,68804.91,9745.753
+359,DNA starvation/stationary phase protection protein,51,50,29,48804.94,6115.950162068967
+360,guanylate kinase,46,50,32,13713.99,3034.033053125
+361,orotidine-5'-phosphate decarboxylase,47,50,38,18180.95,4549.987284210527
+362,carbamoyl-phosphate synthase large subunit,45,50,12,8922.646,2278.984633333334
+363,dihydroorotase,46,50,36,29467.88,4432.946666666667
+364,aspartate carbamoyltransferase catalytic subunit,46,50,22,138924.1,12028.87472727273
+365,bifunctional pyr operon transcriptional regulator/uracil phosphoribosyltransferase PyrR,46,50,32,27872.66,4187.066378125
+366,transcription antitermination factor NusB,47,50,41,38833.58,2912.217207317073
+367,3-dehydroquinate synthase,47,50,29,38833.58,5407.145372413795
+368,Holliday junction resolvase RuvX,46,50,28,13713.99,2154.5456499999996
+369,HAMP domain-containing histidine kinase,48,50,33,37878.25,2693.6138606060604
+370,30S ribosomal protein S4,46,50,18,4831.423,1769.7030333333332
+371,"bifunctional (p)ppGpp synthetase/guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase",46,50,36,28780.5,3633.5799194444457
+372,protein translocase subunit SecD,46,50,21,211093.9,16863.318580952382
+373,Holliday junction branch migration DNA helicase RuvB,46,50,24,65884.11,6229.750116666666
+374,Holliday junction branch migration protein RuvA,46,50,33,13713.99,2588.8940000000002
+375,GTPase Era,45,50,24,37878.25,2854.7736499999996
+376,rRNA maturation RNase YbeY,47,50,29,49376.54,4323.9476241379325
+377,PhoH family protein,45,50,28,198956.2,11696.864832142854
+378,HIT domain-containing protein,47,50,26,6565.992,1887.1354230769225
+379,16S rRNA (uracil(1498)-N(3))-methyltransferase,47,50,27,65884.11,6981.645870370371
+380,molecular chaperone DnaJ,45,50,28,28780.5,5391.530303571429
+381,DNA polymerase III subunit delta,46,50,36,5485.32,1565.740877777778
+382,leucine--tRNA ligase,45,50,30,29467.88,3361.8412733333344
+383,thiol reductant ABC exporter subunit CydD,28,50,20,29467.88,4791.638295
+384,cytochrome d ubiquinol oxidase subunit II,39,50,10,13713.99,2527.90199
+385,cytochrome ubiquinol oxidase subunit I,37,50,11,66470.78,9596.759100000001
+386,FUSC family protein,31,50,21,211093.9,23558.059485714282
+387,YceI family protein,44,50,15,8485.756,1761.95028
+388,Mur ligase family protein,28,50,22,28780.5,3117.463313636363
+389,ribosome maturation factor RimM,47,50,27,65884.11,8214.707311111111
+390,RNA-binding protein,40,50,19,65884.11,12268.150568421052
+391,30S ribosomal protein S16,47,50,32,38833.58,3777.434240625
+392,signal recognition particle protein,46,50,27,13713.99,2413.1114296296296
+393,signal recognition particle-docking protein FtsY,47,50,22,8485.756,1448.499459090909
+394,branched-chain amino acid ABC transporter permease,38,50,15,6565.992,2626.1189133333332
+395,ABC transporter ATP-binding protein,48,50,22,4545.701,1699.4363136363638
+396,amino acid ABC transporter permease,42,50,17,138924.1,14212.058099999998
+397,glutamate ABC transporter substrate-binding protein,45,50,25,138924.1,13431.413424
+398,chromosome segregation protein SMC,43,50,25,18180.95,2391.681948
+399,isocitrate lyase,32,50,18,28780.5,4166.350955555556
+400,molybdopterin-dependent oxidoreductase,43,50,29,138924.1,8297.927693103447
+401,bifunctional DNA-formamidopyrimidine glycosylase/DNA-(apurinic or apyrimidinic site) lyase,47,50,39,38833.58,3683.0914692307697
+402,DUF177 domain-containing protein,46,50,28,65884.11,6070.4117000000015
+403,pantetheine-phosphate adenylyltransferase,47,50,32,138924.1,14761.811965625002
+404,sensor histidine kinase,36,50,26,38833.58,5383.0552192307705
+405,ABC transporter ATP-binding protein,37,50,13,8922.646,2408.0350153846152
+406,ATP-dependent DNA helicase RecG,47,50,29,38833.58,4766.911079310345
+407,NAD-dependent succinate-semialdehyde dehydrogenase,61,50,24,28780.5,5316.0033791666665
+408,4-aminobutyrate--2-oxoglutarate transaminase,38,50,21,3428.529,1217.5144095238097
+409,thiamine-phosphate kinase,47,50,29,27872.66,3352.0332724137943
+410,D-alanine--D-alanine ligase,46,50,31,48804.94,3561.792841935484
+411,3-isopropylmalate dehydratase small subunit,46,50,23,9721.919,2850.619708695652
+412,CBS domain-containing protein,43,50,27,28780.5,6092.10254074074
+413,RdgB/HAM1 family non-canonical purine NTP pyrophosphatase,47,50,21,13713.99,2274.5560857142855
+414,ribonuclease PH,47,50,29,28780.5,3417.368227586209
+415,glutamate racemase,46,50,33,138924.1,11640.794530303028
+416,signal peptidase I,49,50,27,38833.58,5924.896155555556
+417,50S ribosomal protein L19,45,50,24,27872.66,3780.1511958333335
+418,DsbA family protein,40,50,13,198956.2,47263.47612307693
+419,peptide deformylase,41,50,21,28780.5,3807.5653190476187
+420,metallopeptidase family protein,48,50,28,38833.58,4311.613614285715
+421,ATP-dependent Clp protease adapter ClpS,47,50,22,28780.5,3840.728140909091
+422,DNA polymerase IV,43,50,20,16739.64,3277.2604650000003
+423,Asp-tRNA(Asn)/Glu-tRNA(Gln) amidotransferase subunit GatB,47,50,19,29467.88,5339.734531578948
+424,Asp-tRNA(Asn)/Glu-tRNA(Gln) amidotransferase subunit GatA,47,50,24,94590.41,5886.0258208333335
+425,Asp-tRNA(Asn)/Glu-tRNA(Gln) amidotransferase subunit GatC,45,50,25,38833.58,5380.724568
+426,tRNA 2-thiouridine(34) synthase MnmA,46,50,39,138924.1,12228.597466666666
+427,ribonuclease HI,35,50,19,16770.32,3908.8769631578953
+428,UMP kinase,47,50,23,28780.5,7219.622604347825
+429,translation elongation factor Ts,47,50,15,2492.419,1301.04278
+430,30S ribosomal protein S2,45,50,33,38833.58,5426.311678787882
+431,DNA-processing protein DprA,48,50,28,28780.5,4620.7345107142855
+432,heavy metal translocating P-type ATPase,51,50,36,13713.99,2496.485947222222
+433,DUF305 domain-containing protein,37,50,18,4576.539,1394.978011111111
+434,YraN family protein,46,50,30,66470.78,4533.8950233333335
+435,error-prone DNA polymerase,40,50,24,211093.9,15547.843104166668
+436,DUF3039 domain-containing protein,44,50,14,66470.78,6370.2775999999985
+437,UPF0182 family protein,49,50,23,21732.38,3912.2234782608693
+438,PDZ domain-containing protein,46,50,20,68804.91,11408.48259
+439,ATP-dependent DNA helicase UvrD2,47,50,28,28780.5,5264.452135714285
+440,NAD(+) diphosphatase,45,50,30,74987.35,4618.604893333335
+441,ATP-dependent helicase,45,50,30,302785.5,12784.574953333333
+442,bifunctional phosphopantothenoylcysteine decarboxylase/phosphopantothenate--cysteine ligase CoaBC,46,50,28,8485.756,2040.7645892857142
+443,ferritin-like fold-containing protein,42,50,32,38833.58,5534.3847406250015
+444,PHP domain-containing protein,33,50,24,29467.88,4974.813479166668
+445,aminopeptidase P family protein,66,50,36,138924.1,7370.703463888892
+446,YchJ family protein,45,50,33,13713.99,2780.1678636363636
+447,DHA2 family efflux MFS transporter permease subunit,29,50,20,48804.94,4923.950855000001
+448,VOC family protein,33,50,20,3858.662,1218.9525600000002
+449,DUF3097 domain-containing protein,46,50,34,302785.5,12351.429641176466
+450,sigma-70 family RNA polymerase sigma factor,46,50,19,28780.5,4808.929873684211
+451,argininosuccinate synthase,47,50,22,16271.57,2466.733009090909
+452,aldo/keto reductase,52,50,25,13713.99,2295.8695480000006
+453,ATP-dependent RNA helicase HrpA,45,50,29,38833.58,7229.861727586206
+454,DUF1003 domain-containing protein,45,50,27,198956.2,8678.723285185182
+455,O-methyltransferase,47,50,37,302785.5,33553.70190540539
+456,succinyl-diaminopimelate desuccinylase,41,50,24,37878.25,3946.5066291666662
+457,"2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-succinyltransferase",46,50,26,13713.99,3164.5726423076926
+458,citrate synthase,44,50,17,5351.021,1601.8371470588236
+459,ferredoxin family protein,50,50,33,138924.1,15027.596057575753
+460,N-acetyl-gamma-glutamyl-phosphate reductase,46,50,24,65884.11,7475.225908333335
+461,3-hydroxyisobutyrate dehydrogenase,29,50,15,2962.843,1580.6966666666667
+462,acyl-CoA dehydrogenase family protein,28,50,13,2962.843,1704.479646153846
+463,methylisocitrate lyase,29,50,12,3428.529,1387.1428000000003
+464,SDR family oxidoreductase,33,50,14,6565.992,1912.9014000000002
+465,50S ribosomal protein L35,42,50,23,16770.32,5107.923673913044
+466,bifunctional 1-(5-phosphoribosyl)-5-((5-phosphoribosylamino)methylideneamino)imidazole-4-carboxamide isomerase/phosphoribosylanthranilate isomerase PriA,47,50,27,138924.1,8282.041266666669
+467,imidazole glycerol phosphate synthase subunit HisH,47,50,43,138924.1,17101.786548837208
+468,imidazoleglycerol-phosphate dehydratase HisB,47,50,33,7211.263,2247.7800272727272
+469,transcriptional repressor LexA,45,50,19,27872.66,3819.0840052631584
+470,lipoyl synthase,44,50,23,65884.11,9753.145747826087
+471,methylenetetrahydrofolate reductase,34,50,19,27872.66,3772.054805263158
+472,5-methyltetrahydropteroyltriglutamate--homocysteine S-methyltransferase,26,50,15,3700.972,1417.4898866666667
+473,tRNA (adenosine(37)-N6)-dimethylallyltransferase MiaA,47,50,25,68804.91,5674.0457559999995
+474,recombination regulator RecX,47,50,27,13713.99,2753.7462333333337
+475,recombinase RecA,45,50,24,17253.57,2751.406308333333
+476,CinA family protein,38,50,30,13713.99,3109.868243333334
+477,CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase,47,50,26,13713.99,2643.8344230769235
+478,DNA translocase FtsK,39,50,31,13713.99,4156.266948387098
+479,ribonuclease J,47,50,25,13713.99,2588.078012000001
+480,4-hydroxy-tetrahydrodipicolinate synthase,48,50,25,28780.5,3323.19264
+481,dihydrofolate reductase,37,50,17,13713.99,2931.4401411764716
+482,thymidylate synthase,38,50,23,10272.33,2341.30775652174
+483,hypothetical protein,35,50,23,211093.9,26746.417521739135
+484,4-hydroxy-tetrahydrodipicolinate reductase,45,50,25,65884.11,4876.953275999999
+485,polyribonucleotide nucleotidyltransferase,47,50,25,16271.57,2533.9399320000007
+486,phosphoglycerate dehydrogenase,39,50,17,12723.6,2935.3206882352947
+487,ketol-acid reductoisomerase,46,50,35,65884.11,11342.899642857148
+488,acetolactate synthase small subunit,45,50,25,13713.99,3196.7300400000013
+489,acetolactate synthase large subunit,46,50,32,38833.58,5408.622606250001
+490,type I glyceraldehyde-3-phosphate dehydrogenase,46,50,34,37878.25,5147.968188235295
+491,helix-turn-helix domain-containing protein,47,50,23,8485.756,2096.897339130435
+492,alpha-hydroxy-acid oxidizing protein,31,50,15,138924.1,11888.927539999999
+493,SsrA-binding protein SmpB,45,50,26,198956.2,10267.050884615386
+494,cell division ATP-binding protein FtsE,43,50,27,138924.1,9326.218466666664
+495,peptide chain release factor 2,47,50,27,38833.58,3253.5914074074076
+496,PLP-dependent aminotransferase family protein,29,50,13,13713.99,3307.085623076923
+497,ammonium transporter,45,50,18,65884.11,10876.911605555555
+498,inositol monophosphatase,44,50,30,38833.58,4689.052610000001
+499,formate dehydrogenase accessory sulfurtransferase FdhD,43,50,25,74987.35,8737.405635999998
+500,FdhF/YdeP family oxidoreductase,34,50,15,13713.99,3372.3345199999994
+501,molybdate ABC transporter substrate-binding protein,47,50,21,28780.5,4240.396461904763
+502,ABC transporter permease,36,50,22,74987.35,12729.131745454546
+503,"GTP 3',8-cyclase MoaA",48,50,30,38833.58,4067.857353333334
+504,ThiF family adenylyltransferase,52,50,33,38833.58,4715.520099999999
+505,MoaD/ThiS family protein,42,50,29,302785.5,25276.286144827583
+506,NCS2 family permease,46,50,24,138924.1,8778.168858333333
+507,FKBP-type peptidyl-prolyl cis-trans isomerase,47,50,17,4615.4,1228.8969705882355
+508,zinc metalloprotease HtpX,38,50,19,48804.94,8114.300289473682
+509,FAD-binding protein,30,50,20,28780.5,3176.25979
+510,NAD(P)/FAD-dependent oxidoreductase,57,50,27,13713.99,2555.1261296296293
+511,DUF501 domain-containing protein,47,50,31,198956.2,10384.375893548387
+512,phosphopyruvate hydratase,46,50,35,13713.99,3058.2291542857147
+513,VOC family protein,34,50,18,138924.1,10523.702305555555
+514,GntR family transcriptional regulator,35,50,22,28780.5,3785.687636363637
+515,cation acetate symporter,43,50,17,13713.99,1979.1625117647059
+516,DUF485 domain-containing protein,43,50,24,211093.9,12423.125775
+517,MazG family protein,37,50,24,13713.99,2345.7720375
+518,transcription-repair coupling factor,46,50,23,138924.1,13472.535899999999
+519,50S ribosomal protein L25/general stress protein Ctc,47,50,34,13713.99,2131.2269941176473
+520,NAD-dependent succinate-semialdehyde dehydrogenase,44,50,19,38833.58,3995.834589473685
+521,hypothetical protein,48,50,23,48804.94,4629.850347826087
+522,NAD(P)H-dependent oxidoreductase,34,50,16,13939.35,3605.7639750000003
+523,2-keto-4-pentenoate hydratase,32,50,16,50885.97,5862.4145125000005
+524,5-carboxymethyl-2-hydroxymuconate semialdehyde dehydrogenase,39,50,11,48804.94,5836.267190909091
+525,ACR3 family arsenite efflux transporter,42,50,15,8485.756,2636.1242666666662
+526,arsenate reductase ArsC,37,50,25,211093.9,26147.997632000013
+527,metalloregulator ArsR/SmtB family transcription factor,55,50,28,3428.529,1221.0405214285715
+528,amino acid permease,35,50,12,28780.5,5140.772341666667
+529,uracil-DNA glycosylase,47,50,31,13939.35,2694.8179548387106
+530,bifunctional o-acetylhomoserine/o-acetylserine sulfhydrylase,46,50,41,302785.5,18656.981031707317
+531,hemolysin family protein,47,50,31,211093.9,8224.260158064511
+532,bifunctional UDP-N-acetylglucosamine diphosphorylase/glucosamine-1-phosphate N-acetyltransferase GlmU,46,50,25,37878.25,3885.2436119999993
+533,MarR family transcriptional regulator,43,50,24,12351.13,1948.702416666667
+534,ABC-F family ATP-binding cassette domain-containing protein,47,50,29,50885.97,4679.9253344827575
+535,DsbA family oxidoreductase,35,50,19,4325.003,1492.7738684210524
+536,4-(cytidine 5'-diphospho)-2-C-methyl-D-erythritol kinase,46,50,37,74987.35,8431.13694054054
+537,16S rRNA (adenine(1518)-N(6)/adenine(1519)-N(6))-dimethyltransferase RsmA,47,50,34,66470.78,3549.298750000001
+538,TatD family hydrolase,46,50,37,198956.2,10180.111527027027
+539,methionine--tRNA ligase,47,50,29,27872.66,3609.9787275862077
+540,peroxide stress protein YaaA,45,50,29,37878.25,4845.230803448276
+541,F0F1 ATP synthase subunit gamma,47,50,17,17253.57,5434.844076470588
+542,F0F1 ATP synthase subunit alpha,47,50,16,28780.5,3387.4979062499997
+543,F0F1 ATP synthase subunit delta,47,50,28,13713.99,2860.542917857144
+544,F0F1 ATP synthase subunit B,47,50,11,8922.646,2200.829345454546
+545,ATP synthase F0 subunit C,33,50,4,2752.447,1385.61085
+546,threonylcarbamoyl-AMP synthase,44,50,30,68804.91,4846.385636666667
+547,peptide chain release factor N(5)-glutamine methyltransferase,45,50,33,302785.5,11952.171833333332
+548,MFS transporter,33,50,18,21732.38,4920.596244444445
+549,transcription termination factor Rho,47,50,26,28780.5,2813.308746153846
+550,M20/M25/M40 family metallo-hydrolase,39,50,19,38833.58,7833.113531578946
+551,TerC family protein,59,50,50,48804.94,5387.36098
+552,tRNA (guanosine(46)-N7)-methyltransferase TrmB,41,50,28,9852.15,2549.172260714286
+553,type II 3-dehydroquinate dehydratase,43,50,19,4553.39,1965.0034842105267
+554,excinuclease ABC subunit UvrA,39,50,37,38833.58,6020.22313243243
+555,ATP-binding cassette domain-containing protein,47,50,12,38833.58,7110.372750000001
+556,1-deoxy-D-xylulose-5-phosphate reductoisomerase,44,50,20,138924.1,9822.988229999997
+557,16S rRNA (cytidine(1402)-2'-O)-methyltransferase,45,50,29,18180.95,3236.5595896551727
+558,MFS transporter,27,50,19,13713.99,2051.1530736842105
+559,SUF system NifU family Fe-S cluster assembly protein,47,50,33,138924.1,6923.345954545455
+560,L-aspartate oxidase,36,50,28,138924.1,10564.481267857142
+561,YibE/F family protein,33,50,19,28780.5,3349.0462526315787
+562,translational GTPase TypA,47,50,37,28780.5,4067.4551351351365
+563,ABC transporter ATP-binding protein,50,50,29,4553.39,1698.4081551724134
+564,ABC transporter permease,34,50,14,2779.551,1161.5463428571431
+565,class II fructose-bisphosphatase,40,50,23,13939.35,3082.560247826087
+566,class II fructose-bisphosphate aldolase,49,50,22,29467.88,2340.7713454545446
+567,exodeoxyribonuclease VII large subunit,45,50,29,28780.5,4681.263982758622
+568,exodeoxyribonuclease VII small subunit,47,50,30,28780.5,4003.6551200000004
+569,carbonic anhydrase,42,50,11,13713.99,3074.878972727273
+570,ABC transporter ATP-binding protein,32,50,12,211093.9,18928.989166666663
+571,acyl-CoA dehydrogenase family protein,46,50,28,28780.5,4696.971432142857
+572,amino-acid N-acetyltransferase,36,50,29,94590.41,9444.30387586207
+573,ATP-dependent Clp protease ATP-binding subunit,47,50,26,13713.99,4610.684592307693
+574,lysine--tRNA ligase,45,50,27,28780.5,4893.577229629631
+575,dihydroneopterin aldolase,32,50,26,50885.97,8196.177457692309
+576,hypoxanthine phosphoribosyltransferase,47,50,25,28780.5,4237.980256
+577,tRNA lysidine(34) synthetase TilS,44,50,34,13713.99,3291.455185294118
+578,inorganic diphosphatase,47,50,24,13713.99,1591.4691208333334
+579,leucyl aminopeptidase,46,50,28,27872.66,3999.2945464285726
+580,LLM class flavin-dependent oxidoreductase,31,50,17,66470.78,9297.845294117647
+581,MGMT family protein,39,50,27,49376.54,7610.2857296296315
+582,LysR substrate-binding domain-containing protein,37,50,25,17253.57,3522.7523960000008
+583,acyl-CoA dehydrogenase family protein,40,50,22,38833.58,5555.0770454545445
+584,DUF445 domain-containing protein,40,50,26,27872.66,3345.10955
+585,phosphoglyceromutase,46,50,16,13713.99,3209.8332812499993
+586,folate-binding protein YgfZ,47,50,28,13713.99,2656.199657142857
+587,response regulator transcription factor,38,50,24,28780.5,2915.6642124999985
+588,mycothiol synthase,38,50,22,138924.1,10631.508204545455
+589,RNA degradosome polyphosphate kinase,43,50,25,38833.58,5121.870660000001
+590,NUDIX hydrolase,46,50,28,8323.257,2067.828253571429
+591,phosphate ABC transporter substrate-binding protein PstS,43,50,20,10894.72,2059.0689
+592,GNAT family N-acetyltransferase,46,50,30,16770.32,3846.2743800000007
+593,FmdB family transcriptional regulator,26,50,18,6565.992,2107.8122944444444
+594,nitrate reductase,46,50,18,138924.1,10718.963377777776
+595,FAD-binding oxidoreductase,28,50,14,13713.99,2800.587521428571
+596,electron transfer flavoprotein subunit beta/FixA family protein,48,50,18,13713.99,3623.1497333333327
+597,metal-dependent transcriptional regulator,47,50,42,138924.1,18991.557738095245
+598,cold shock domain-containing protein,43,50,24,29467.88,3698.9971083333335
+599,DEAD/DEAH box helicase,46,50,36,38833.58,3841.128219444444
+600,response regulator transcription factor,77,50,39,198956.2,10584.900661538462
+601,chaperonin GroEL,46,50,21,138924.1,9003.290861904763
+602,peptide-methionine (R)-S-oxide reductase MsrB,47,50,27,138924.1,8289.634066666662
+603,thioredoxin domain-containing protein,46,50,37,27872.66,3314.5875297297293
+604,preprotein translocase subunit SecA,45,50,21,12351.13,1919.0290095238092
+605,polyprenol monophosphomannose synthase,50,50,27,211093.9,10329.654625925925
+606,ribosome-associated translation inhibitor RaiA,47,50,18,66470.78,10273.867716666668
+607,MtrAB system histidine kinase MtrB,47,50,32,29467.88,4789.675078124999
+608,MtrAB system response regulator MtrA,46,50,28,28780.5,5202.071464285713
+609,"mannose-6-phosphate isomerase, class I",43,50,23,9721.919,2605.9476260869556
+610,glycosyltransferase,31,50,22,18247.98,2938.8414
+611,UDP-galactopyranose mutase,36,50,21,13713.99,3409.0796571428564
+612,glucose-1-phosphate thymidylyltransferase RfbA,43,50,26,302785.5,16151.066538461531
+613,glycosyltransferase family 2 protein,47,50,29,13713.99,3085.2240517241376
+614,UDP-glucose 4-epimerase GalE,46,50,33,10894.72,3574.361466666667
+615,5-(carboxyamino)imidazole ribonucleotide mutase,47,50,34,302785.5,11411.049538235295
+616,50S ribosomal protein L1,45,50,16,2962.843,1145.89291875
+617,transcription termination/antitermination protein NusG,47,50,11,13713.99,2357.8237636363638
+618,LLM class flavin-dependent oxidoreductase,42,50,18,198956.2,23947.77023333333
+619,aspartate aminotransferase family protein,36,50,22,66470.78,7457.958472727274
+620,ABC transporter permease,30,50,20,29467.88,3566.883675000001
+621,ABC transporter ATP-binding protein,29,50,16,10616.46,2911.4040249999994
+622,TRAM domain-containing protein,47,50,31,48804.94,4630.94945483871
+623,purine-nucleoside phosphorylase,41,50,25,6565.992,1764.374548
+624,FAD-binding oxidoreductase,28,50,17,9852.15,2416.8571882352944
+625,DUF58 domain-containing protein,34,50,24,302785.5,15431.70170416667
+626,FAD-dependent oxidoreductase,40,50,18,28780.5,3359.9800111111117
+627,succinate dehydrogenase iron-sulfur subunit,38,50,12,4270.735,1420.6587500000003
+628,succinate dehydrogenase flavoprotein subunit,42,50,37,66470.78,7174.861178378381
+629,succinate dehydrogenase hydrophobic membrane anchor subunit,35,50,25,17253.57,3489.79418
+630,exodeoxyribonuclease III,47,50,32,12351.13,2767.25919375
+631,exodeoxyribonuclease III,42,50,22,18247.98,2095.4606954545457
+632,tryptophan--tRNA ligase,52,50,30,10894.72,2438.2392099999997
+633,riboflavin synthase,45,50,23,38833.58,3404.8649565217393
+634,"bifunctional 3,4-dihydroxy-2-butanone-4-phosphate synthase/GTP cyclohydrolase II",48,50,27,49376.54,4014.972737037039
+635,"6,7-dimethyl-8-ribityllumazine synthase",46,50,21,6565.992,1972.6271619047625
+636,YigZ family protein,32,50,19,13713.99,4061.330084210527
+637,chorismate mutase,29,50,21,9852.15,2090.1986952380953
+638,adenylosuccinate synthase,45,50,18,29467.88,2824.6199944444443
+639,DUF3151 domain-containing protein,39,50,14,21732.38,3033.152071428572
+640,YajQ family cyclic di-GMP-binding protein,42,50,12,24647.41,3776.633075000001
+641,YciI family protein,29,50,8,1280.855,886.502975
+642,ABC transporter ATP-binding protein,27,50,14,65884.11,13265.489199999998
+643,ABC transporter ATP-binding protein,34,50,18,65884.11,7721.887855555558
+644,ABC transporter ATP-binding protein,25,50,15,13939.35,4074.01446
+645,iron-siderophore ABC transporter substrate-binding protein,32,50,14,65884.11,5954.917107142857
+646,iron chelate uptake ABC transporter family permease subunit,44,50,31,211093.9,8672.986899999996
+647,siderophore-interacting protein,37,50,21,13713.99,2326.530295238095
+648,LysE/ArgO family amino acid transporter,44,50,24,13713.99,1587.1186625
+649,LysR family transcriptional regulator ArgP,38,50,19,28780.5,4221.501657894737
+650,glycine--tRNA ligase,46,50,17,38833.58,6906.530894117647
+651,YbhB/YbcL family Raf kinase inhibitor-like protein,44,50,17,9492.083,2725.9545058823533
+652,metal-sensitive transcriptional regulator,42,50,27,48804.94,7117.206237037038
+653,MerR family transcriptional regulator,38,50,24,18247.98,2747.4374458333336
+654,rhodanese-related sulfurtransferase,28,50,16,28780.5,4269.88453125
+655,TetR/AcrR family transcriptional regulator,30,50,17,13713.99,2475.2818882352944
+656,peptidase M13,47,50,23,13713.99,2642.716217391305
+657,carbon starvation protein A,31,50,15,29467.88,4255.526800000001
+658,MATE family efflux transporter,44,50,20,13713.99,2661.9874600000007
+659,endonuclease NucS,47,50,31,66470.78,5280.075403225806
+660,TetR family transcriptional regulator,35,50,16,13713.99,2489.80384375
+661,biotin-dependent carboxyltransferase family protein,44,50,22,138924.1,10688.463204545456
+662,allophanate hydrolase subunit 1,32,50,22,38833.58,4862.730877272727
+663,MFS transporter,45,50,30,3661.11,1575.4550300000003
+664,ABC transporter substrate-binding protein,30,50,17,8922.646,1816.1860176470595
+665,response regulator transcription factor,45,50,36,74987.35,7778.464811111112
+666,aldo/keto reductase,27,50,13,16770.32,2494.656861538462
+667,ROK family protein,44,50,28,38833.58,6441.631778571429
+668,ROK family transcriptional regulator,34,50,25,211093.9,32094.406632000002
+669,NAD(P)-dependent oxidoreductase,29,50,14,29467.88,3798.652107142857
+670,ABC transporter ATP-binding protein,51,50,32,28780.5,2735.561293750002
+671,hydroxymethylbilane synthase,42,50,26,38833.58,4125.389880769231
+672,ABC transporter ATP-binding protein/permease,39,50,27,9492.083,1965.264111111111
+673,2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylic-acid synthase,48,50,34,211093.9,10604.43168529412
+674,nucleoside deaminase,47,50,31,138924.1,8662.841974193545
+675,cytochrome c biogenesis protein CcdA,51,50,34,17253.57,2842.3769705882355
+676,ABC transporter permease,30,50,17,3428.529,1613.7688941176475
+677,MaoC family dehydratase N-terminal domain-containing protein,47,50,29,66470.78,6514.888051724138
+678,UDP-N-acetylmuramate dehydrogenase,47,50,29,198956.2,18741.104979310352
+679,c-type cytochrome biogenesis protein CcsB,48,50,25,138924.1,7215.9043679999995
+680,phosphoribosylformylglycinamidine synthase subunit PurS,45,50,21,3993.322,1403.4182000000003
+681,phosphoribosylaminoimidazolesuccinocarboxamide synthase,42,50,21,37878.25,3743.2308380952377
+682,mycoredoxin,41,50,17,16271.57,2064.5099117647055
+683,inorganic phosphate transporter,45,50,15,74987.35,11503.292706666665
+684,CTP synthase,41,50,21,38833.58,4872.1055428571435
+685,SDR family oxidoreductase,43,50,22,13713.99,2783.2885818181817
+686,3-deoxy-7-phosphoheptulonate synthase class II,47,50,26,28780.5,6050.058161538462
+687,nicotinate-nucleotide adenylyltransferase,47,50,26,66470.78,8283.28898846154
+688,ribosome silencing factor,46,50,23,38833.58,7518.962869565216
+689,tRNA (adenine-N1)-methyltransferase,47,50,24,8485.756,2419.7606874999997
+690,histidinol dehydrogenase,46,50,30,28780.5,4095.5630833333344
+691,heme-copper oxidase subunit III,45,50,26,66470.78,6174.3376153846175
+692,deoxyguanosinetriphosphate triphosphohydrolase,46,50,34,302785.5,12325.534558823525
+693,HIT domain-containing protein,46,50,21,50885.97,5700.000423809524
+694,ribonuclease III,47,50,24,138924.1,8622.683558333336
+695,Fpg/Nei family DNA glycosylase,42,50,27,13713.99,1842.2069296296297
+696,ribosome recycling factor,46,50,26,13713.99,2440.8364615384617
+697,phenylalanine--tRNA ligase subunit alpha,47,50,27,211093.9,13043.942637037044
+698,translation initiation factor IF-3,41,50,25,27872.66,3260.588064000002
+699,DUF1844 domain-containing protein,35,50,22,38833.58,3083.060890909092
+700,DUF3046 domain-containing protein,45,50,36,38833.58,3556.4936083333337
+701,histidinol-phosphatase,45,50,23,13713.99,3336.5896130434785
+702,MFS transporter,33,50,20,13713.99,2332.8510200000005
+703,SDR family oxidoreductase,47,50,35,38833.58,3563.9454114285727
+704,M18 family aminopeptidase,33,50,17,16271.57,4169.388905882352
+705,MarR family transcriptional regulator,30,50,14,9852.15,1708.3434214285714
+706,phosphate ABC transporter ATP-binding protein PstB,46,50,20,13713.99,3329.8157650000003
+707,WhiB family transcriptional regulator,45,50,33,48804.94,5822.2366666666685
+708,thymidine phosphorylase,39,50,25,12723.6,3921.436072000001
+709,DMT family transporter,32,50,23,27872.66,2944.6419173913037
+710,glutamine-hydrolyzing carbamoyl-phosphate synthase small subunit,46,50,22,28780.5,4554.7166499999985
+711,nicotinate phosphoribosyltransferase,44,50,25,28780.5,4025.5995160000007
+712,metal-dependent transcriptional regulator,43,50,26,27872.66,3320.0418038461535
+713,MFS transporter,36,50,20,13713.99,1895.289195
+714,aspartate ammonia-lyase,28,50,18,13713.99,3291.2401833333333
+715,MBL fold metallo-hydrolase,38,50,10,8485.756,2624.01421
+716,GNAT family N-acetyltransferase,37,50,18,38833.58,5780.396761111111
+717,protein phosphatase 2C domain-containing protein,46,50,30,37878.25,3001.422486666667
+718,catalase/peroxidase HPI,34,50,13,8323.257,2196.2710461538463
+719,transcriptional repressor,50,50,33,65884.11,3356.7247818181822
+720,sigma-70 family RNA polymerase sigma factor,32,50,16,17253.57,2418.4108625000003
+721,isochorismate synthase,52,50,32,13713.99,2046.350325
+722,histidine phosphatase family protein,48,50,32,302785.5,12501.830390624997
+723,phosphoribosylformylglycinamidine synthase subunit PurL,45,50,25,13713.99,2314.929144
+724,6-phosphofructokinase,42,50,25,28780.5,2834.7964239999997
+725,mycothiol conjugate amidase Mca,39,50,27,21732.38,6272.897062962961
+726,type I pantothenate kinase,47,50,33,211093.9,11616.713215151512
+727,GNAT family N-acetyltransferase,41,50,21,9852.15,2689.309523809524
+728,tRNA guanosine(34) transglycosylase Tgt,30,50,12,13713.99,2720.4334666666664
+729,GNAT family N-acetyltransferase,33,50,21,18180.95,3463.070014285715
+730,cytochrome c oxidase subunit II,45,50,17,6565.992,2610.2311588235298
+731,cytochrome c oxidase subunit I,62,50,24,65884.11,7125.229624999999
+732,dUTP diphosphatase,44,50,32,50885.97,7430.355740625001
+733,hypothetical protein,39,50,29,66470.78,10660.612413793104
+734,PAC2 family protein,42,50,24,49376.54,3608.3878458333343
+735,hotdog fold thioesterase,52,50,18,28780.5,3424.8572222222224
+736,response regulator,30,50,22,38833.58,5615.7656954545455
+737,triose-phosphate isomerase,47,50,11,38833.58,5700.325845454546
+738,amino acid ABC transporter ATP-binding protein,45,50,17,2943.461,1130.9876352941178
+739,trehalose-6-phosphate synthase,49,50,16,4263.555,1649.6891
+740,shikimate kinase,46,50,29,12351.13,2520.261424137931
+741,shikimate dehydrogenase,46,50,17,3333.338,1320.1931941176474
+742,endolytic transglycosylase MltG,47,50,25,198956.2,13135.540712000004
+743,hemolysin family protein,43,50,26,29467.88,2949.103876923078
+744,branched-chain amino acid ABC transporter permease,26,50,14,2997.09,1441.507357142857
+745,NAD(P)-dependent glycerol-3-phosphate dehydrogenase,47,50,30,13713.99,3279.870433333334
+746,HNH endonuclease family protein,47,50,27,27872.66,3592.756377777779
+747,ribonuclease HII,46,50,29,138924.1,16876.500372413793
+748,mechanosensitive ion channel family protein,43,50,18,65884.11,11438.010849999999
+749,oligoribonuclease,45,50,19,29467.88,3355.9480789473687
+750,cysteine desulfurase,47,50,37,17718.99,3487.9898459459464
+751,tetratricopeptide repeat protein,46,50,24,13713.99,1967.3931625000002
+752,phosphatidate cytidylyltransferase,47,50,33,138924.1,9712.998503030307
+753,DNA polymerase Y family protein,41,50,24,37878.25,4375.225025000001
+754,trypsin-like peptidase domain-containing protein,42,50,16,13713.99,3065.020075
+755,zinc-dependent metalloprotease,47,50,16,6565.992,2267.5001625000004
+756,DUF3107 domain-containing protein,46,50,28,8485.756,2012.0591142857143
+757,DEAD/DEAH box helicase,47,50,31,68804.91,14019.01725806452
+758,hypothetical protein,34,50,23,17253.57,2557.8625869565217
+759,Sec-independent protein translocase protein TatB,44,50,23,13713.99,2665.3793391304357
+760,Dyp-type peroxidase,49,50,21,48804.94,3928.8776000000007
+761,RNA methyltransferase,47,50,22,198956.2,13422.082604545458
+762,lipoyl(octanoyl) transferase LipB,42,50,20,4545.701,1989.249665
+763,DUF3054 domain-containing protein,38,50,18,13713.99,1786.4985055555562
+764,molybdopterin molybdotransferase MoeA,55,50,32,198956.2,9856.335406249997
+765,alanine racemase,30,50,12,49376.54,5878.126641666666
+766,LuxR C-terminal-related transcriptional regulator,33,50,19,13713.99,3010.651594736842
+767,hemolysin family protein,46,50,15,50885.97,14040.108693333335
+768,hypothetical protein,31,50,19,29467.88,3467.392163157894
+769,undecaprenyl/decaprenyl-phosphate alpha-N-acetylglucosaminyl 1-phosphate transferase,47,50,28,28780.5,4975.317142857143
+770,ABC transporter substrate-binding protein,39,50,25,38833.58,4040.2583600000003
+771,site-2 protease family protein,46,50,35,138924.1,14110.714654285714
+772,trimeric intracellular cation channel family protein,48,50,25,13713.99,3188.5673400000005
+773,cysteine desulfurase,45,50,33,37878.25,3737.2522787878793
+774,multidrug effflux MFS transporter,34,50,18,38833.58,4984.186233333334
+775,ABC transporter substrate-binding protein,27,50,12,8922.646,2319.6481750000003
+776,CPBP family intramembrane metalloprotease,39,50,28,65884.11,8966.929189285713
+777,DUF2520 domain-containing protein,42,50,30,28780.5,3952.3156200000003
+778,dihydropteroate synthase,44,50,33,38833.58,5370.832875757576
+779,5-formyltetrahydrofolate cyclo-ligase,42,50,34,27872.66,4420.409305882354
+780,ABC transporter ATP-binding protein,47,50,25,28780.5,4141.482508
+781,UDP-glucose/GDP-mannose dehydrogenase family protein,47,50,28,13713.99,2268.260478571429
+782,5-(carboxyamino)imidazole ribonucleotide synthase,47,50,31,8922.646,1712.788938709678
+783,MarR family transcriptional regulator,29,50,22,68804.91,13034.130599999999
+784,MFS transporter,58,50,25,8323.257,2032.34238
+785,NAD(P)H-hydrate dehydratase,47,50,33,9721.919,2282.574439393941
+786,alpha/beta hydrolase,47,50,32,28780.5,4653.464756249999
+787,3-methyladenine DNA glycosylase,41,50,35,28780.5,3514.8887228571425
+788,AEC family transporter,34,50,17,13713.99,3695.3031058823526
+789,biotin transporter BioY,40,50,22,13713.99,2908.9803363636365
+790,sensor histidine kinase,40,50,32,32704.39,3333.1648437500003
+791,penicillin-binding protein 2,46,50,22,48804.94,3785.3668590909106
+792,DciA family protein,45,50,29,38833.58,4553.228962068966
+793,ribonuclease P protein component,46,50,43,198956.2,11957.64144883721
+794,glutamyl-tRNA reductase,46,50,25,198956.2,12261.980696
+795,porphobilinogen synthase,47,50,31,13713.99,2796.0959612903225
+796,sugar ABC transporter permease,43,50,21,198956.2,11632.561047619047
+797,Gfo/Idh/MocA family oxidoreductase,30,50,24,37878.25,4399.0358125
+798,bifunctional copper resistance protein CopD/cytochrome c oxidase assembly protein,39,50,25,13713.99,3121.80822
+799,MMPL family transporter,51,50,29,198956.2,9315.78941034483
+800,GNAT family N-acetyltransferase,32,50,19,27872.66,3887.2515105263165
+801,EamA family transporter,43,50,27,13713.99,2456.0753185185195
+802,RNA methyltransferase,47,50,23,138924.1,10894.10176086956
+803,MerR family transcriptional regulator,45,50,39,38833.58,3524.0705820512817
+804,TIGR02611 family protein,32,50,18,38833.58,3303.5546833333337
+805,bifunctional methylenetetrahydrofolate dehydrogenase/methenyltetrahydrofolate cyclohydrolase,46,50,28,198956.2,10808.063796428567
+806,amidohydrolase family protein,36,50,23,8485.756,2404.964317391305
+807,transglycosylase domain-containing protein,56,50,28,941334.2,62442.93345357142
+808,Sec-independent protein translocase subunit TatA,39,50,21,13713.99,2488.0636047619037
+809,ATP-binding protein,47,50,29,302785.5,15340.746241379307
+810,ATP-binding protein,31,50,21,38833.58,5424.325557142858
+811,tRNA pseudouridine(55) synthase TruB,46,50,28,29467.88,4646.148078571428
+812,bifunctional riboflavin kinase/FAD synthetase,47,50,34,138924.1,7759.054397058824
+813,diacylglycerol kinase,39,50,27,38833.58,5648.845996296297
+814,MarR family transcriptional regulator,34,50,22,74987.35,7655.498345454546
+815,type I methionyl aminopeptidase,46,50,30,13713.99,2853.580720000001
+816,alanine racemase,43,50,32,138924.1,12317.79224375
+817,tRNA (adenosine(37)-N6)-threonylcarbamoyltransferase complex ATPase subunit type 1 TsaE,41,50,30,28780.5,3259.5420266666674
+818,DNA helicase PcrA,46,50,28,13713.99,2031.3751392857146
+819,type 1 glutamine amidotransferase,44,50,29,302785.5,14016.996524137932
+820,queuosine precursor transporter,30,50,18,38833.58,5865.1516555555545
+821,polyprenyl synthetase family protein,50,50,31,28780.5,3256.379158064517
+822,signal peptidase II,55,50,24,28780.5,3256.6888416666675
+823,primosomal protein N',47,50,36,38833.58,4116.39313888889
+824,tryptophan synthase subunit beta,46,50,30,38833.58,3249.64002
+825,glutamate 5-kinase,46,50,37,198956.2,16777.194821621622
+826,CrcB family protein,31,50,24,38833.58,3735.6872208333334
+827,PAC2 family protein,40,50,18,302785.5,18686.320094444443
+828,twin-arginine translocase subunit TatC,52,50,32,38833.58,7508.705775
+829,apolipoprotein N-acyltransferase,52,50,31,27872.66,2816.170487096774
+830,methyltransferase,43,50,28,4325.003,1587.8008464285722
+831,anthranilate phosphoribosyltransferase,45,50,27,12351.13,1733.219225925926
+832,class I SAM-dependent methyltransferase,30,50,16,13713.99,1972.7251624999997
+833,metal-sulfur cluster assembly factor,47,50,23,38833.58,5314.7846913043495
+834,COX15/CtaA family protein,44,50,26,68804.91,4791.609238461539
+835,gamma carbonic anhydrase family protein,34,50,17,49376.54,7027.260688235295
+836,DUF3159 domain-containing protein,38,50,19,13713.99,3798.095268421053
+837,DUF3710 domain-containing protein,46,50,23,198956.2,13673.289399999998
+838,TadA family conjugal transfer-associated ATPase,49,50,30,302785.5,22568.490526666676
+839,tyrosine--tRNA ligase,45,50,25,28780.5,4311.044000000001
+840,ribosome biogenesis GTPase Der,47,50,25,50885.97,5167.641516000001
+841,23S rRNA (adenine(2503)-C(2))-methyltransferase RlmN,47,50,26,13713.99,3185.1041538461545
+842,trigger factor,46,50,23,27872.66,3842.62777826087
+843,cell division protein ZapE,34,50,13,27872.66,4557.2140615384615
+844,MFS transporter,32,50,13,37878.25,6676.094692307693
+845,DEAD/DEAH box helicase,46,50,30,13713.99,1920.8089700000003
+846,enoyl-CoA hydratase/isomerase family protein,44,50,24,13713.99,3434.959050000001
+847,succinyldiaminopimelate transaminase,42,50,24,302785.5,32181.84580000001
+848,DEAD/DEAH box helicase,43,50,15,198956.2,16247.449053333332
+849,"succinate dehydrogenase, cytochrome b556 subunit",35,50,21,13713.99,2999.276666666666
+850,bifunctional diaminohydroxyphosphoribosylaminopyrimidine deaminase/5-amino-6-(5-phosphoribosylamino)uracil reductase RibD,44,50,34,38833.58,5054.728879411765
+851,chromosomal replication initiator protein DnaA,46,50,9,3428.529,1246.0791777777779
+852,fasciclin domain-containing protein,37,50,16,4325.003,1174.3668000000002
+853,DHA2 family efflux MFS transporter permease subunit,38,50,15,37878.25,4339.685339999999
+854,biliverdin-producing heme oxygenase,31,50,17,13713.99,2827.577682352941
+855,biotin--[acetyl-CoA-carboxylase] ligase,46,50,26,74987.35,8689.979846153847
+856,DNA gyrase subunit A,44,50,21,13713.99,1517.9965476190482
+857,FAD-dependent monooxygenase,28,50,15,9300.843,2953.473906666667
+858,ABC transporter permease,28,50,18,9852.15,2329.088
+859,DUF202 domain-containing protein,32,50,18,13713.99,3195.402288888889
+860,AAA family ATPase,30,50,16,74987.35,9486.9630875
+861,DUF664 domain-containing protein,32,50,15,28780.5,4378.245620000001
+862,biotin synthase BioB,27,50,13,13713.99,3016.2904153846152
+863,flotillin family protein,26,50,10,10272.33,2509.3766299999997
+864,succinic semialdehyde dehydrogenase,35,50,12,18247.98,2865.4919666666665
+865,oligopeptide:H+ symporter,37,50,18,13713.99,3386.573377777778
+866,nucleoside hydrolase,35,50,23,37878.25,4751.514260869566
+867,NADP-dependent malic enzyme,50,50,27,27872.66,3053.0019185185174
+868,pantoate--beta-alanine ligase,44,50,30,198956.2,16193.899059999996
+869,DNA-3-methyladenine glycosylase,38,50,29,138924.1,6958.775637931034
+870,ROK family protein,28,50,19,17718.99,4388.866710526317
+871,penicillin-binding protein,44,50,22,29467.88,6175.85085
+872,RNA-binding S4 domain-containing protein,36,50,14,211093.9,17268.50147142857
+873,VOC family protein,30,50,15,8228.79,2888.80888
+874,MaoC family dehydratase,28,50,14,17718.99,3564.6395
+875,glutamate synthase large subunit,51,50,27,198956.2,8929.176459259259
+876,NAD(P)H-quinone oxidoreductase,44,50,27,28780.5,5506.134448148148
+877,molybdenum cofactor biosynthesis protein MoaE,46,50,27,28780.5,3510.1653185185182
+878,prephenate dehydrogenase,44,50,39,198956.2,10253.649128205127
+879,tRNA adenosine deaminase-associated protein,25,50,17,17718.99,4005.9760235294125
+880,UTP--glucose-1-phosphate uridylyltransferase,38,50,21,8922.646,1918.8667047619047
+881,aminotransferase class I/II-fold pyridoxal phosphate-dependent enzyme,29,50,23,4576.539,1772.6507913043483
+882,YbaB/EbfC family nucleoid-associated protein,25,50,14,13713.99,2644.868757142857
+883,glutamine amidotransferase,27,50,20,211093.9,14720.139965000004
+884,2-isopropylmalate synthase,45,50,20,13713.99,2960.579155
+885,catalase,34,50,17,37878.25,6413.45001764706
+886,WhiB family transcriptional regulator,30,50,9,38833.58,6658.665866666666
+887,MBL fold metallo-hydrolase,30,50,19,13072.54,2630.7264315789475
+888,Crp/Fnr family transcriptional regulator,37,50,25,38833.58,4622.288520000001
+889,MarP family serine protease,35,50,14,13713.99,2185.2135571428576
+890,phage holin family protein,35,50,15,13713.99,2031.9530933333335
+891,hypothetical protein,29,50,20,211093.9,23638.613940000007
+892,HAD-IB family hydrolase,31,50,21,66470.78,8271.057995238096
+893,type II secretion system F family protein,25,50,9,9492.083,2615.957211111111
+894,type I DNA topoisomerase,45,50,24,8697.46,2519.6657124999992
+895,ABC transporter ATP-binding protein,42,50,30,50885.97,5955.613993333332
+896,DNA polymerase III subunit delta',46,50,33,65884.11,8291.729390909091
+897,S-(hydroxymethyl)mycothiol dehydrogenase,42,50,15,8922.646,2670.0513599999995
+898,M1 family metallopeptidase,26,50,10,4576.539,1235.66262
+899,DUF2516 family protein,36,50,20,12351.13,2138.93976
+900,DUF2505 domain-containing protein,26,50,16,48804.94,5555.3445125
+901,D-inositol-3-phosphate glycosyltransferase,37,50,24,28780.5,5233.425183333333
+902,hypothetical protein,28,50,20,13713.99,2395.2269850000002
+903,Ppx/GppA family phosphatase,36,50,22,8323.257,1564.6700818181823
+904,pyrroline-5-carboxylate reductase,47,50,26,27872.66,4035.854719230769
+905,helix-turn-helix domain-containing protein,35,50,31,8922.646,2179.2501612903225
+906,HAD-IB family hydrolase,29,50,17,29467.88,5011.1168705882355
+907,uroporphyrinogen decarboxylase,44,50,32,38833.58,5358.427709374999
+908,protoporphyrinogen oxidase,45,50,27,46858.52,4499.0879629629635
+909,cytochrome c biogenesis protein ResB,46,50,30,3700.972,1266.9726300000002
+910,"dTDP-glucose 4,6-dehydratase",43,50,25,16271.57,3679.823100000001
+911,o-succinylbenzoate synthase,43,50,35,138924.1,7490.262228571429
+912,glycosyltransferase family 1 protein,26,50,19,23787.35,3744.815526315791
+913,geranylgeranyl reductase family protein,34,50,13,13713.99,2537.752046153846
+914,NAD(P)/FAD-dependent oxidoreductase,43,50,30,68804.91,6293.040133333332
+915,DNA-directed RNA polymerase subunit beta',46,50,5,28780.5,7042.033939999999
+916,50S ribosomal protein L3,45,50,12,3661.11,1605.1381333333336
+917,50S ribosomal protein L2,45,50,35,13713.99,2478.9447057142875
+918,50S ribosomal protein L22,45,50,31,50885.97,6385.864341935483
+919,adenylate kinase,46,50,11,8782.157,2136.363154545455
+920,WXG100 family type VII secretion target,34,50,12,13713.99,3145.3151166666667
+921,aquaporin,31,50,13,13072.54,3874.381669230769
+922,HAD hydrolase-like protein,29,50,20,13713.99,2655.78869
+923,chaperonin GroEL,28,50,16,28780.5,4659.52425625
+924,sigma-70 family RNA polymerase sigma factor,27,50,11,13713.99,3845.7628090909084
+925,response regulator transcription factor,30,50,23,49376.54,4462.519321739132
+926,GntP family permease,36,50,8,29467.88,6662.71895
+927,tRNA (cytidine(34)-2'-O)-methyltransferase,33,50,14,13713.99,2547.9562071428563
+928,homoserine O-acetyltransferase,43,50,16,198956.2,16948.81716875
+929,NADP-dependent isocitrate dehydrogenase,34,50,15,8485.756,2854.8967866666662
+930,YihY/virulence factor BrkB family protein,54,50,37,38833.58,4883.315191891891
+931,adenosine deaminase,36,50,23,13713.99,3045.6095347826085
+932,amidohydrolase,37,50,29,28780.5,5635.564358620689
+933,NAD(P)H-quinone dehydrogenase,45,50,22,4545.701,1532.253722727273
+934,MmgE/PrpD family protein,28,50,12,38833.58,4985.848941666666
+935,pyruvate carboxylase,40,50,26,17718.99,2690.2479807692316
+936,sulfurtransferase,32,50,16,6750.528,1665.5185437500004
+937,Maf-like protein,46,50,23,50885.97,6730.133986956522
+938,acyl-CoA carboxylase subunit beta,50,50,30,138924.1,11626.33530666667
+939,helix-turn-helix domain-containing protein,38,50,24,38833.58,4312.958795833334
+940,ABC transporter substrate-binding protein,40,50,26,27872.66,5080.572219230769
+941,TIGR03089 family protein,30,50,15,2943.461,1170.5279533333335
+942,LCP family protein,55,50,26,27872.66,2907.2435999999993
+943,dTDP-4-dehydrorhamnose reductase,41,50,33,17253.57,4768.864009090907
+944,metallopeptidase family protein,37,50,28,211093.9,9206.5242
+945,DUF3499 domain-containing protein,35,50,24,37878.25,4882.667791666666
+946,phosphomannomutase/phosphoglucomutase,28,50,20,10272.33,1960.567785
+947,adenosylhomocysteinase,34,50,17,28780.5,4829.3889
+948,dTMP kinase,41,50,28,38833.58,3800.916664285715
+949,LpqB family beta-propeller domain-containing protein,44,50,29,27872.66,4581.180368965518
+950,ComF family protein,46,50,30,48804.94,5330.364780000001
+951,hypothetical protein,26,50,21,8922.646,1629.1535904761902
+952,ribosome small subunit-dependent GTPase A,45,50,29,13713.99,1944.789172413793
+953,SOS response-associated peptidase,42,50,26,74987.35,6447.689269230769
+954,DUF3152 domain-containing protein,31,50,24,27872.66,5604.520316666668
+955,potassium channel family protein,25,50,13,38833.58,6091.22583846154
+956,PPA1309 family protein,27,50,18,13713.99,2840.2619500000005
+957,pyridoxal phosphate-dependent aminotransferase,43,50,25,28780.5,4637.797984000001
+958,helicase-associated domain-containing protein,36,50,19,28780.5,3085.4228578947373
+959,septation protein SepH,44,50,32,10894.72,2757.643593750001
+960,phosphoserine transaminase,46,50,17,46858.52,5501.134635294118
+961,"3'(2'),5'-bisphosphate nucleotidase CysQ",31,50,12,28780.5,6435.284491666666
+962,ATP-dependent helicase,35,50,23,38833.58,3151.5515782608695
+963,Fpg/Nei family DNA glycosylase,35,50,27,10894.72,1679.5823555555553
+964,YccF domain-containing protein,33,50,19,10272.33,2991.911405263158
+965,glutamate-cysteine ligase family protein,26,50,17,8922.646,2967.6902
+966,glucose-6-phosphate isomerase,34,50,22,29467.88,4615.299345454547
+967,antibiotic biosynthesis monooxygenase,27,50,20,302785.5,23077.357675
+968,CoA ester lyase,40,50,16,68804.91,7137.933531250001
+969,MogA/MoaB family molybdenum cofactor biosynthesis protein,48,50,29,13713.99,3518.510989655173
+970,SAF domain-containing protein,27,50,17,13713.99,2148.611123529412
+971,molybdopterin molybdotransferase MoeA,29,50,13,2659.79,1667.913707692308
+972,DNA-3-methyladenine glycosylase I,44,50,27,13713.99,1871.8400740740742
+973,resuscitation-promoting factor,35,50,19,29467.88,4738.805615789474
+974,antibiotic biosynthesis monooxygenase,30,50,21,50885.97,6355.160190476192
+975,nitronate monooxygenase,34,50,19,8922.646,1828.9089578947364
+976,aminoacyl-tRNA hydrolase,46,50,18,138924.1,9805.520866666668
+977,ribose-phosphate diphosphokinase,45,50,22,38833.58,7751.763018181818
+978,Ppx/GppA family phosphatase,37,50,21,4545.701,1209.5781380952383
+979,dihydroxyacetone kinase subunit DhaK,28,50,19,8323.257,2136.66817368421
+980,PhoH family protein,39,50,23,38833.58,4816.8087869565215
+981,class II fumarate hydratase,46,50,35,27872.66,2555.568508571429
+982,4-hydroxy-3-methylbut-2-enyl diphosphate reductase,43,50,29,27872.66,2741.393282758621
+983,redox-regulated ATPase YchF,44,50,17,94590.41,9370.17195882353
+984,MSMEG_4193 family putative phosphomutase,30,50,20,68804.91,5032.577295000001
+985,SCO1664 family protein,30,50,21,28780.5,5409.213319047618
+986,flavin reductase family protein,34,50,15,8485.756,2582.1528933333334
+987,quinolinate synthase NadA,37,50,16,8485.756,2019.8355375
+988,DUF808 domain-containing protein,34,50,17,138924.1,15827.40079411765
+989,ABC transporter permease,37,50,15,37878.25,4457.325706666666
+990,TIGR00730 family Rossman fold protein,43,50,27,9492.083,1943.5726148148149
+991,glucosyl-3-phosphoglycerate synthase,35,50,24,138924.1,9471.479208333334
+992,glycogen synthase,31,50,25,48804.94,4955.488152000001
+993,glucose-1-phosphate adenylyltransferase,34,50,24,28780.5,2665.2834708333326
+994,Mrp/NBP35 family ATP-binding protein,45,50,22,8485.756,2150.1600045454543
+995,multifunctional oxoglutarate decarboxylase/oxoglutarate dehydrogenase thiamine pyrophosphate-binding subunit/dihydrolipoyllysine-residue succinyltransferase subunit,45,50,19,49376.54,7757.851384210526
+996,DEAD/DEAH box helicase,47,50,27,13713.99,3109.046225925926
+997,MarR family transcriptional regulator,44,50,27,38833.58,4359.887914814817
+998,PspC domain-containing protein,30,50,11,6832.989,2986.2912
+999,arginine--tRNA ligase,42,50,20,16271.57,3396.1855600000004
+1000,diaminopimelate decarboxylase,46,50,33,74987.35,6683.513951515151
+1001,homoserine kinase,46,50,27,50885.97,6527.53382962963
+1002,ATP-binding cassette domain-containing protein,30,50,22,28780.5,3693.7420590909096
+1003,respiratory nitrate reductase subunit gamma,25,50,9,4270.735,1392.5163666666667
+1004,nitrate reductase molybdenum cofactor assembly chaperone,26,50,18,13713.99,2207.6277722222226
+1005,nitrate reductase subunit beta,25,50,14,4545.701,2294.9752785714286
+1006,NarK/NasA family nitrate transporter,37,50,21,9721.919,2082.136704761905
+1007,peptide chain release factor 1,46,50,30,38833.58,4119.76091
+1008,F0F1 ATP synthase subunit A,45,50,10,8156.898,2730.85773
+1009,F0F1 ATP synthase subunit epsilon,46,50,10,4615.4,1521.7058200000001
+1010,DUF2550 domain-containing protein,37,50,20,21732.38,3850.2253899999996
+1011,hypothetical protein,34,50,21,28780.5,5302.563480952382
+1012,"1,4-alpha-glucan branching protein GlgB",35,50,24,198956.2,13953.32709583333
+1013,"alpha-1,4-glucan--maltose-1-phosphate maltosyltransferase",34,50,20,28780.5,4864.429955000001
+1014,electron transfer flavoprotein subunit alpha/FixB family protein,44,50,24,8485.756,2376.2386958333336
+1015,fused MFS/spermidine synthase,38,50,22,13713.99,3118.9875454545454
+1016,methionine synthase,35,50,15,12351.13,2636.956173333333
+1017,NAD-dependent DNA ligase LigA,44,50,26,27872.66,3991.041546153846
+1018,siderophore-interacting protein,35,50,18,21732.38,4883.394305555555
+1019,aldo/keto reductase,35,50,13,66470.78,8725.439092307693
+1020,glutathione S-transferase C-terminal domain-containing protein,39,50,19,8485.756,1814.3277789473684
+1021,dihydroxy-acid dehydratase,62,50,54,198956.2,8498.7818
+1022,class I SAM-dependent methyltransferase,34,50,18,28780.5,4564.354588888888
+1023,IclR family transcriptional regulator,38,50,15,10894.72,1712.4864
+1024,3-isopropylmalate dehydratase large subunit,45,50,23,28780.5,3914.8745478260876
+1025,YihY/virulence factor BrkB family protein,29,50,20,46858.52,5224.849840000001
+1026,DAK2 domain-containing protein,37,50,24,28780.5,3015.2594041666657
+1027,16S rRNA (guanine(966)-N(2))-methyltransferase RsmD,45,50,35,138924.1,9564.111048571429
+1028,SDR family NAD(P)-dependent oxidoreductase,43,50,31,138924.1,11825.426048387098
+1029,class I SAM-dependent methyltransferase,33,50,21,49376.54,7868.204609523808
+1030,DoxX family membrane protein,33,50,17,68804.91,6542.607211764705
+1031,MBL fold metallo-hydrolase,35,50,15,38833.58,5902.347693333334
+1032,excinuclease ABC subunit UvrA,45,50,37,198956.2,13119.138278378377
+1033,phenylalanine--tRNA ligase subunit beta,44,50,32,10894.72,2133.5494187499994
+1034,bifunctional glutamate N-acetyltransferase/amino-acid acetyltransferase ArgJ,45,50,18,28780.5,3095.4835222222223
+1035,acetylglutamate kinase,45,50,26,13713.99,2533.326065384615
+1036,acetylornithine transaminase,42,50,23,27872.66,4482.857847826087
+1037,arginine repressor,37,50,27,49376.54,4074.426833333334
+1038,Trm112 family protein,25,50,11,3428.529,1688.6884636363638
+1039,hypothetical protein,31,50,15,3428.529,1577.4126800000001
+1040,SDR family oxidoreductase,38,50,26,6680.689,1834.480392307692
+1041,copper transporter,36,50,7,1994.814,1163.1237714285714
+1042,rRNA pseudouridine synthase,42,50,22,65884.11,7435.413063636364
+1043,class I SAM-dependent methyltransferase,25,50,18,27872.66,5031.780933333333
+1044,ABC transporter ATP-binding protein/permease,28,50,14,16739.64,2275.2404928571427
+1045,MOSC domain-containing protein,32,50,20,5351.021,1815.44238
+1046,bifunctional nuclease family protein,36,50,22,50885.97,9654.366604545456
+1047,NADP-dependent phosphogluconate dehydrogenase,38,50,23,13713.99,3480.8697217391305
+1048,class I SAM-dependent methyltransferase,31,50,22,13713.99,3538.4188863636373
+1049,metalloregulator ArsR/SmtB family transcription factor,32,50,22,38833.58,6597.986963636364
+1050,FxsA family protein,25,50,7,3661.11,1528.908357142857
+1051,DEAD/DEAH box helicase,44,50,25,138924.1,8214.596931999997
+1052,Pup--protein ligase,37,50,17,3428.529,1233.7188117647058
+1053,ubiquitin-like protein Pup,36,50,11,10272.33,2860.851872727273
+1054,proteasome accessory factor PafA2,37,50,17,13713.99,3206.6465294117643
+1055,proteasome ATPase,37,50,27,13713.99,3545.6527148148157
+1056,PD-(D/E)XK nuclease family protein,35,50,19,13713.99,3459.4081263157896
+1057,phytoene desaturase family protein,48,50,31,13713.99,3590.562987096776
+1058,squalene/phytoene synthase family protein,40,50,19,38833.58,4765.712236842106
+1059,DNA photolyase family protein,35,50,16,68804.91,10243.297300000002
+1060,hypothetical protein,26,50,9,2264.006,1037.7759777777778
+1061,SPFH/Band 7/PHB domain protein,40,50,17,28780.5,4437.168617647059
+1062,NfeD family protein,34,50,14,28780.5,3486.649314285714
+1063,ferrochelatase,48,50,27,10272.33,1842.8372555555554
+1064,DUF1990 domain-containing protein,30,50,17,38833.58,6914.681911764707
+1065,ATP-binding cassette domain-containing protein,44,50,34,211093.9,12223.274770588234
+1066,transcriptional regulator,37,50,26,38833.58,3887.8936192307697
+1067,transketolase,45,50,32,28780.5,2604.32305
+1068,glucose-6-phosphate dehydrogenase,38,50,18,138924.1,10403.721855555552
+1069,glucose-6-phosphate dehydrogenase assembly protein OpcA,39,50,23,13713.99,2550.961126086957
+1070,6-phosphogluconolactonase,36,50,19,27872.66,3990.0649894736844
+1071,phosphoenolpyruvate carboxylase,26,50,15,8156.898,2978.1995066666673
+1072,hypothetical protein,35,50,28,13713.99,1696.7228214285713
+1073,polyphosphate kinase 2 family protein,41,50,21,13713.99,3354.1397952380953
+1074,elongation factor P,45,50,14,50885.97,4700.2283
+1075,chorismate synthase,44,50,30,28780.5,3010.424206666666
+1076,alanine--tRNA ligase,45,50,13,3428.529,1197.2567076923078
+1077,replication-associated recombination protein A,44,50,32,66470.78,4422.915171875
+1078,aspartate--tRNA ligase,38,50,29,38833.58,2922.3162310344833
+1079,neutral zinc metallopeptidase,37,50,25,48804.94,3128.5613680000015
+1080,NAD(P)H-dependent oxidoreductase,39,50,23,13713.99,3024.5220391304347
+1081,histidine--tRNA ligase,45,50,29,28780.5,4576.259693103448
+1082,MBL fold metallo-hydrolase,36,50,18,37878.25,5005.149827777778
+1083,peptidylprolyl isomerase,36,50,18,66470.78,6604.329494444445
+1084,adenine phosphoribosyltransferase,45,50,28,28780.5,4314.648475
+1085,protein translocase subunit SecF,42,50,17,27872.66,4171.170535294117
+1086,pyridoxal 5'-phosphate synthase glutaminase subunit PdxT,40,50,26,138924.1,10918.716092307694
+1087,CDP-alcohol phosphatidyltransferase family protein,33,50,22,211093.9,11363.789795454544
+1088,ROK family protein,44,50,23,28780.5,3510.480291304348
+1089,DEAD/DEAH box helicase,43,50,30,138924.1,9026.409396666666
+1090,D-aminoacyl-tRNA deacylase,28,50,17,66470.78,9082.825488235292
+1091,DeoR/GlpR family DNA-binding transcription regulator,39,50,25,13713.99,2325.306972
+1092,phosphoenolpyruvate--protein phosphotransferase,45,50,21,10272.33,2848.5108666666674
+1093,HPr family phosphocarrier protein,38,50,25,8156.898,1672.628132
+1094,GTPase HflX,46,50,30,13072.54,3324.1298299999994
+1095,DUF349 domain-containing protein,45,50,30,3993.322,1199.9954800000003
+1096,energy-coupling factor ABC transporter ATP-binding protein,38,50,21,27872.66,4232.945519047619
+1097,energy-coupling factor transporter transmembrane protein EcfT,36,50,23,6565.992,1930.1243260869567
+1098,PspA/IM30 family protein,30,50,8,138924.1,21522.021725000002
+1099,YciI family protein,31,50,16,198956.2,16361.103612500005
+1100,FAD-dependent thymidylate synthase,26,50,14,138924.1,13133.65994285714
+1101,translation initiation factor IF-2,44,50,26,16770.32,4584.339626923078
+1102,transcription termination factor NusA,43,50,22,13713.99,2162.7672909090907
+1103,ribosome maturation factor RimP,36,50,18,13713.99,4884.790005555555
+1104,proline--tRNA ligase,45,50,38,65884.11,7804.381794736842
+1105,uroporphyrinogen-III C-methyltransferase,36,50,21,27872.66,5118.56079047619
+1106,VOC family protein,29,50,12,6017.919,1930.7294333333336
+1107,mycothione reductase,28,50,10,13713.99,2765.16809
+1108,flavodoxin-dependent (E)-4-hydroxy-3-methylbut-2-enyl-diphosphate synthase,45,50,18,13713.99,3011.8225499999994
+1109,lipopolysaccharide assembly protein LapA domain-containing protein,26,50,9,3661.11,1492.0174666666667
+1110,sulfur carrier protein ThiS,27,50,11,8323.257,1986.3679636363638
+1111,thiazole synthase,29,50,16,3428.529,1172.9819562500002
+1112,tRNA (guanosine(37)-N1)-methyltransferase TrmD,45,50,26,21732.38,3602.6971230769236
+1113,P-II family nitrogen regulator,32,50,7,1733.503,1081.5861
+1114,DivIVA domain-containing protein,27,50,13,5485.32,1436.1256615384616
+1115,NADP-specific glutamate dehydrogenase,36,50,18,28780.5,5212.720200000001
+1116,glycerate kinase,56,50,38,27872.66,3742.7337578947368
+1117,indole-3-glycerol phosphate synthase TrpC,46,50,33,37878.25,4926.59358787879
+1118,imidazole glycerol phosphate synthase subunit HisF,45,50,26,28780.5,2912.4678769230773
+1119,histidinol-phosphate transaminase,46,50,29,13713.99,2325.0845758620694
+1120,glycogen debranching protein GlgX,38,50,21,8485.756,2150.655347619048
+1121,malto-oligosyltrehalose synthase,33,50,23,28780.5,2592.3473173913044
+1122,RNA-binding S4 domain-containing protein,36,50,26,21732.38,4658.929403846154
+1123,malto-oligosyltrehalose trehalohydrolase,30,50,18,8922.646,1491.8951166666673
+1124,DNA polymerase III subunit alpha,45,50,27,13713.99,2869.9137814814817
+1125,ADP-forming succinate--CoA ligase subunit beta,42,50,21,138924.1,10347.132438095237
+1126,succinate--CoA ligase subunit alpha,42,50,13,8922.646,2729.8768923076927
+1127,DNA polymerase IV,28,50,15,65884.11,6625.4300399999975
+1128,peptidoglycan editing factor PgeF,37,50,18,3428.529,1568.466211111111
+1129,FtsQ-type POTRA domain-containing protein,46,50,28,38833.58,7145.590985714284
+1130,undecaprenyldiphospho-muramoylpentapeptide beta-N-acetylglucosaminyltransferase,41,50,29,29467.88,3011.7385586206906
+1131,penicillin-binding protein 2,47,50,31,29467.88,2778.6181516129027
+1132,Rv2175c family DNA-binding protein,45,50,29,13713.99,2034.8087413793103
+1133,1-acyl-sn-glycerol-3-phosphate acyltransferase,45,50,26,28780.5,3807.9175884615393
+1134,glycosyltransferase family 4 protein,27,50,11,4263.555,2219.467309090909
+1135,cytochrome bc complex cytochrome b subunit,46,50,14,38833.58,10459.492157142855
+1136,asparagine synthase (glutamine-hydrolyzing),33,50,19,9852.15,1946.2471
+1137,iron-sulfur cluster assembly accessory protein,46,50,25,28780.5,7547.8822759999985
+1138,aminomethyl-transferring glycine dehydrogenase,42,50,26,13713.99,1915.4930000000002
+1139,glycine cleavage system aminomethyltransferase GcvT,43,50,18,27872.66,5586.24618888889
+1140,glycine cleavage system protein GcvH,50,50,32,28780.5,3491.7145718749994
+1141,type I glutamate--ammonia ligase,45,50,8,3051.765,1371.8273250000002
+1142,histidine phosphatase family protein,38,50,25,198956.2,10621.845168000002
+1143,NUDIX domain-containing protein,28,50,16,138924.1,16278.40069375
+1144,hypothetical protein,35,50,13,2962.843,1409.4312076923077
+1145,galactokinase,33,50,16,138924.1,16172.540425000001
+1146,RNB domain-containing ribonuclease,28,50,20,38833.58,5064.169960000001
+1147,bifunctional RNase H/acid phosphatase,26,50,16,10894.72,1955.9974937499999
+1148,Nif3-like dinuclear metal center hexameric protein,28,50,17,28780.5,2707.507352941177
+1149,SURF1 family protein,46,50,28,94590.41,7363.020160714285
+1150,DUF3052 domain-containing protein,37,50,14,13713.99,2501.848942857142
+1151,"pyruvate dehydrogenase (acetyl-transferring), homodimeric type",49,50,30,138924.1,9942.46408
+1152,OsmC family protein,33,50,25,28780.5,4239.55242
+1153,glycoside hydrolase family 15 protein,47,50,30,198956.2,8300.283486666664
+1154,TPM domain-containing protein,33,50,22,13713.99,3079.486886363636
+1155,heat-inducible transcriptional repressor HrcA,46,50,35,66470.78,5036.139422857144
+1156,radical SAM family heme chaperone HemW,43,50,30,38833.58,3069.52594
+1157,phosphotransferase,26,50,17,6910.52,1609.4548352941179
+1158,ribokinase,34,50,14,4876.735,2084.468157142857
+1159,glycerol-3-phosphate dehydrogenase/oxidase,49,50,31,138924.1,7826.557041935482
+1160,translation elongation factor 4,45,50,26,38833.58,3542.2213615384626
+1161,DegV family protein,36,50,22,138924.1,9804.95123181818
+1162,histidine phosphatase family protein,49,50,27,13713.99,2333.249118518519
+1163,2-hydroxyacid dehydrogenase,36,50,22,27872.66,3552.209209090909
+1164,GTPase ObgE,46,50,17,5351.021,1771.3922000000002
+1165,pirin family protein,36,50,26,17253.57,3269.5122038461536
+1166,N-acetyltransferase,29,50,14,65884.11,8874.202807142856
+1167,valine--tRNA ligase,45,50,24,50885.97,5070.210929166667
+1168,malate dehydrogenase,32,50,14,8485.756,2387.508357142857
+1169,3-oxoadipate enol-lactonase,28,50,15,8485.756,2542.090733333333
+1170,ribose-5-phosphate isomerase,46,50,37,10272.33,1970.3299189189188
+1171,aminopeptidase N,44,50,29,48804.94,5673.112831034483
+1172,cystathionine gamma-synthase,39,50,22,13713.99,3068.913163636363
+1173,globin,43,50,25,50885.97,5365.409079999999
+1174,alanine dehydrogenase,46,50,27,28780.5,2678.044103703704
+1175,SDR family oxidoreductase,55,50,38,13713.99,3548.1475868421053
+1176,isochorismatase family protein,41,50,28,65884.11,4889.563035714286
+1177,thioredoxin-dependent thiol peroxidase,46,50,19,38833.58,3726.6460052631583
+1178,MBL fold metallo-hydrolase,37,50,21,3333.338,1175.5142190476192
+1179,rhomboid family intramembrane serine protease,31,50,16,29467.88,3538.3505124999997
+1180,P1 family peptidase,27,50,14,8697.46,3612.8050142857146
+1181,ferritin,32,50,9,6565.992,1749.5212999999999
+1182,Rho termination factor N-terminal domain-containing protein,29,50,22,198956.2,11694.483718181817
+1183,pyridoxamine 5'-phosphate oxidase family protein,29,50,10,8485.756,1849.18865
+1184,"phosphoglucomutase (alpha-D-glucose-1,6-bisphosphate-dependent)",42,50,28,48804.94,5852.281882142857
+1185,UDP-N-acetylglucosamine 1-carboxyvinyltransferase,51,50,25,65884.11,8397.547172000002
+1186,cystathionine beta-synthase,54,50,25,198956.2,10183.456676
+1187,serine O-acetyltransferase,33,50,22,13713.99,4315.258559090908
+1188,N-acetyltransferase,36,50,15,3993.322,1654.0909533333333
+1189,phosphate ABC transporter permease PstA,45,50,32,138924.1,8435.779740625
+1190,phosphate ABC transporter permease subunit PstC,44,50,16,28780.5,2882.906275
+1191,FABP family protein,42,50,19,10272.33,1813.870173684211
+1192,aminodeoxychorismate lyase,39,50,23,16770.32,3126.463452173913
+1193,S9 family peptidase,39,50,27,17253.57,3052.2278370370373
+1194,LLM class flavin-dependent oxidoreductase,35,50,18,37878.25,6526.109005555557
+1195,phosphoribosylamine--glycine ligase,46,50,38,74987.35,7548.529376315788
+1196,HIT family protein,32,50,14,28780.5,3767.2249
+1197,pyruvate dehydrogenase,40,50,19,18247.98,2814.300905263158
+1198,MFS transporter,36,50,22,198956.2,14411.612831818178
+1199,threonine/serine exporter family protein,34,50,18,138924.1,11425.765744444441
+1200,metal ABC transporter ATP-binding protein,45,50,24,10894.72,2692.1796333333336
+1201,metal ABC transporter permease,32,50,15,8485.756,2520.405566666667
+1202,CarD family transcriptional regulator,44,50,16,302785.5,24263.59768125
+1203,DNA repair protein RadA,46,50,19,28780.5,3577.0246684210524
+1204,DNA integrity scanning diadenylate cyclase DisA,29,50,21,10272.33,1965.032919047618
+1205,hypothetical protein,40,50,21,38833.58,5909.6712809523815
+1206,iron-siderophore ABC transporter substrate-binding protein,35,50,20,3661.11,1862.820735
+1207,PIG-L family deacetylase,26,50,13,138924.1,15122.125815384614
+1208,2-amino-4-hydroxy-6-hydroxymethyldihydropteridine diphosphokinase,40,50,26,16770.32,2759.1482538461537
+1209,GTP cyclohydrolase I FolE,46,50,30,17253.57,2823.6963366666673
+1210,ATP-dependent zinc metalloprotease FtsH,46,50,18,17718.99,4978.4686
+1211,D-alanyl-D-alanine carboxypeptidase/D-alanyl-D-alanine-endopeptidase,37,50,23,13713.99,2703.535717391304
+1212,rhodanese-like domain-containing protein,46,50,34,8782.157,1965.1434558823526
+1213,non-ribosomal peptide synthetase,27,50,21,66470.78,4695.5213523809525
+1214,polyphosphate kinase 2,40,50,13,38833.58,7424.513615384616
+1215,dipeptidase,48,50,36,302785.5,12397.855505555553
+1216,Na+/H+ antiporter subunit E,39,50,23,94590.41,10699.706386956519
+1217,monovalent cation/H+ antiporter complex subunit F,29,50,15,38833.58,8857.783966666666
+1218,monovalent cation/H(+) antiporter subunit G,40,50,28,12723.6,5479.380182142858
+1219,DUF3263 domain-containing protein,40,50,22,28780.5,3437.3423727272734
+1220,NUDIX hydrolase,40,50,27,68804.91,5906.802581481479
+1221,glutamate ABC transporter substrate-binding protein,28,50,17,27872.66,5745.061623529412
+1222,FAD-dependent oxidoreductase,56,50,25,29467.88,4694.692644000001
+1223,amidohydrolase,32,50,14,27872.66,3580.689428571429
+1224,orotate phosphoribosyltransferase,42,50,24,13713.99,3603.0745541666674
+1225,response regulator transcription factor,35,50,25,38833.58,4204.517712000002
+1226,aldehyde dehydrogenase family protein,35,50,14,3428.529,1484.347057142857
+1227,molecular chaperone DnaJ,45,50,14,13713.99,2554.5845142857147
+1228,AI-2E family transporter,38,50,22,13713.99,3082.5276500000004
+1229,M20 family metallopeptidase,33,50,16,29467.88,4917.1412875
+1230,type 1 glutamine amidotransferase,40,50,26,6680.689,1977.3641192307691
+1231,sulfite exporter TauE/SafE family protein,28,50,10,9492.083,1981.14557
+1232,GTP-binding protein,48,50,15,198956.2,15889.201466666667
+1233,nitrite/sulfite reductase,36,50,25,198956.2,10357.649515999998
+1234,FAD-dependent monooxygenase,31,50,15,37878.25,5740.578313333334
+1235,VanW family protein,32,50,19,138924.1,16453.9318368421
+1236,PhzF family phenazine biosynthesis protein,32,50,21,9492.083,1739.450338095238
+1237,phosphoenolpyruvate carboxykinase (GTP),42,50,19,38833.58,3952.825715789474
+1238,NYN domain-containing protein,35,50,16,37878.25,4020.0585874999997
+1239,decaprenyl-phosphate phosphoribosyltransferase,25,50,15,29467.88,3896.731906666667
+1240,Cof-type HAD-IIB family hydrolase,70,50,48,50885.97,5814.578322916666
+1241,1-acyl-sn-glycerol-3-phosphate acyltransferase,49,50,26,13713.99,3655.6095653846155
+1242,histidine phosphatase family protein,32,50,16,28780.5,3208.5925125
+1243,prephenate dehydratase,43,50,26,13713.99,2129.5407269230773
+1244,DUF5926 family protein,32,50,21,27872.66,5207.743785714286
+1245,peptide-methionine (S)-S-oxide reductase MsrA,50,50,27,28780.5,3351.499818518519
+1246,MFS transporter,27,50,14,38833.58,4049.8924785714275
+1247,DUF1206 domain-containing protein,35,50,27,13713.99,3325.200470370371
+1248,Lsr2 family protein,46,50,16,211093.9,18770.694468749996
+1249,TetR/AcrR family transcriptional regulator,43,50,23,28780.5,4385.319965217392
+1250,universal stress protein,38,50,16,38833.58,6159.618600000002
+1251,pseudouridine synthase,37,50,28,50885.97,4391.916021428572
+1252,MFS transporter,27,50,18,21732.38,2899.684238888889
+1253,inositol-3-phosphate synthase,36,50,17,198956.2,14192.241488235293
+1254,MarR family transcriptional regulator,29,50,19,13713.99,2910.444699999999
+1255,universal stress protein,35,50,17,13713.99,2929.021964705882
+1256,cupin domain-containing protein,28,50,16,138924.1,10570.12695
+1257,aminodeoxychorismate/anthranilate synthase component II,41,50,18,3140.96,1104.1824055555555
+1258,YqgE/AlgH family protein,29,50,24,48804.94,4957.1827
+1259,thioredoxin-disulfide reductase,53,50,46,38833.58,7408.63573695652
+1260,ParB/RepB/Spo0J family partition protein,45,50,22,13713.99,1747.5328318181819
+1261,ParA family protein,44,50,26,138924.1,9665.652153846158
+1262,membrane protein insertase YidC,45,50,18,2943.461,1254.6902222222222
+1263,DUF4395 domain-containing protein,28,50,19,8323.257,1929.1328789473685
+1264,CoA pyrophosphatase,45,50,26,29467.88,3745.5951576923076
+1265,dihydropteroate synthase,31,50,17,38833.58,4896.358411764706
+1266,amino acid-binding protein,25,50,17,18247.98,2318.894788235294
+1267,MerR family transcriptional regulator,41,50,20,138924.1,10623.29419
+1268,ABC transporter permease,36,50,23,6565.992,1637.3883913043474
+1269,uridine diphosphate-N-acetylglucosamine-binding protein YvcK,37,50,23,13713.99,3567.3188739130437
+1270,ABC transporter substrate-binding protein,37,50,21,68804.91,6668.784385714286
+1271,1-phosphofructokinase,32,50,16,9721.919,2539.150718749999
+1272,diaminopimelate epimerase,46,50,32,198956.2,11246.163862499998
+1273,[protein-PII] uridylyltransferase,28,50,23,198956.2,9910.823460869566
+1274,acylphosphatase,29,50,23,138924.1,12516.294269565216
+1275,DNA primase,44,50,29,138924.1,9070.108951724138
+1276,glutamate-5-semialdehyde dehydrogenase,45,50,36,211093.9,10663.508719444444
+1277,gluconokinase,44,50,26,17253.57,3589.403965384615
+1278,DUF2017 domain-containing protein,46,50,24,8922.646,2443.759399999999
+1279,class 1b ribonucleoside-diphosphate reductase subunit alpha,40,50,32,68804.91,6604.055081249999
+1280,class Ib ribonucleoside-diphosphate reductase assembly flavoprotein NrdI,45,50,27,8485.756,1758.1949444444442
+1281,aspartate 1-decarboxylase,29,50,16,38833.58,6380.245943750002
+1282,(Fe-S)-binding protein,30,50,19,16770.32,3534.2138684210536
+1283,pyridoxal phosphate-dependent aminotransferase,32,50,21,65884.11,6476.107504761905
+1284,SDR family oxidoreductase,32,50,17,138924.1,10922.897429411765
+1285,ABC transporter ATP-binding protein,38,50,13,27872.66,4362.057669230769
+1286,"NADPH-dependent 2,4-dienoyl-CoA reductase",34,50,14,8485.756,1898.6291785714286
+1287,ABC transporter permease,35,50,21,13713.99,1714.3746619047622
+1288,RNase adapter RapZ,46,50,23,138924.1,8129.508043478262
+1289,amino acid ABC transporter permease,47,50,26,138924.1,11512.397042307692
+1290,cytochrome c,42,50,14,302785.5,25375.688599999998
+1291,4-alpha-glucanotransferase,24,50,16,13713.99,2975.4970375
+1292,zinc ABC transporter substrate-binding protein,34,50,14,2943.461,1519.020642857143
+1293,iron chelate uptake ABC transporter family permease subunit,40,50,22,13713.99,4310.238813636364
+1294,Na+/H+ antiporter subunit D,39,50,22,28780.5,4179.994795454546
+1295,phosphoadenylyl-sulfate reductase,35,50,25,38833.58,3681.891956000001
+1296,hypothetical protein,34,50,21,5351.021,1896.3176666666668
+1297,uroporphyrinogen-III synthase,31,50,19,28780.5,8819.479547368424
+1298,"glutamate-1-semialdehyde 2,1-aminomutase",45,50,36,38833.58,4725.28463888889
+1299,preprotein translocase subunit SecE,47,50,20,27872.66,4597.402625000001
+1300,peptide chain release factor 3,29,50,14,28780.5,4475.4850642857145
+1301,MBL fold metallo-hydrolase,32,50,18,27872.66,4687.51685
+1302,RNA polymerase sigma factor SigE,29,50,12,13713.99,2333.0674749999994
+1303,ornithine carbamoyltransferase,44,50,13,3713.33,1108.9362615384614
+1304,NAD kinase,46,50,33,28780.5,2687.37220909091
+1305,DEAD/DEAH box helicase,36,50,13,38833.58,12138.395930769233
+1306,glycosyltransferase family 2 protein,29,50,18,13713.99,3025.3636777777774
+1307,putative cytokinetic ring protein SteA,37,50,35,302785.5,15301.223100000008
+1308,ABC transporter ATP-binding protein/permease,32,50,25,38833.58,5719.495820000002
+1309,VIT1/CCC1 transporter family protein,34,50,24,38833.58,3722.1589708333336
+1310,sulfate adenylyltransferase subunit CysD,46,50,24,74987.35,7060.478195833334
+1311,phosphatidylinositol mannoside acyltransferase,28,50,19,198956.2,14398.471521052626
+1312,copper resistance protein CopC,43,50,25,28780.5,4402.299031999999
+1313,fructose-specific PTS transporter subunit EIIC,30,50,9,5485.32,2175.777111111111
+1314,TIGR03085 family metal-binding protein,28,50,17,3512.018,1564.2468764705884
+1315,thiamine phosphate synthase,38,50,26,138924.1,7891.674526923076
+1316,glycine oxidase ThiO,28,50,17,16271.57,4271.8809764705875
+1317,carboxylating nicotinate-nucleotide diphosphorylase,39,50,25,38833.58,5300.220192000001
+1318,C40 family peptidase,29,50,11,4545.701,1944.8764363636362
+1319,type II toxin-antitoxin system PemK/MazF family toxin,43,50,24,29467.88,5636.555850000002
+1320,Ig-like domain-containing protein,33,50,17,9721.919,1908.4855588235296
+1321,ATP-dependent DNA helicase,35,50,19,13713.99,2827.246626315789
+1322,FtsX-like permease family protein,29,50,17,38833.58,4447.0260941176475
+1323,MFS transporter,39,50,27,18180.95,3090.2975851851857
+1324,sulfurtransferase,37,50,23,138924.1,7189.903560869568
+1325,sugar transferase,38,50,23,198956.2,12416.916717391301
+1326,glycerol kinase GlpK,47,50,22,38833.58,5622.191086363636
+1327,CCA tRNA nucleotidyltransferase,46,50,36,13713.99,3554.7181250000012
+1328,ABC transporter permease,46,50,27,138924.1,10092.483277777777
+1329,tRNA pseudouridine(38-40) synthase TruA,45,50,21,9721.919,1708.5268999999998
+1330,S8 family serine peptidase,44,50,30,66470.78,4910.343903333335
+1331,type VII secretion protein EccCa,43,50,24,28780.5,4155.703175000001
+1332,methionine ABC transporter ATP-binding protein,32,50,12,28780.5,4292.145816666667
+1333,MFS transporter,41,50,22,198956.2,11731.764722727276
+1334,3-phosphoshikimate 1-carboxyvinyltransferase,43,50,27,38833.58,4397.930603703705
+1335,DUF3027 domain-containing protein,32,50,26,13713.99,3035.2470307692306
+1336,lytic murein transglycosylase,25,50,11,3428.529,1827.6437454545458
+1337,pyrimidine reductase family protein,44,50,24,6017.919,1591.0782375000001
+1338,N-acetyl-1-D-myo-inositol-2-amino-2-deoxy-alpha-D-glucopyranoside deacetylase,40,50,32,74987.35,6560.562571875002
+1339,hypothetical protein,40,50,24,21732.38,3988.3117374999997
+1340,NUDIX hydrolase,36,50,25,198956.2,11300.933583999999
+1341,AAA family ATPase,40,50,27,198956.2,15029.577062962964
+1342,polysaccharide biosynthesis tyrosine autokinase,38,50,17,38833.58,6036.130347058824
+1343,XdhC family protein,32,50,22,66470.78,5146.2516545454555
+1344,endonuclease III,35,50,28,198956.2,11536.842057142856
+1345,polyprenyl synthetase family protein,45,50,17,29467.88,3401.807517647059
+1346,phospholipid carrier-dependent glycosyltransferase,45,50,31,38833.58,4344.258629032259
+1347,NUDIX domain-containing protein,25,50,16,8485.756,1705.5614437499996
+1348,DNA polymerase I,43,50,17,3428.529,1140.776688235294
+1349,PH domain-containing protein,35,50,25,27872.66,3887.426180000001
+1350,pyridoxal 5'-phosphate synthase lyase subunit PdxS,44,50,28,138924.1,13736.86785
+1351,RNA polymerase sigma factor,44,50,29,16739.64,3412.2069793103447
+1352,tRNA (N6-isopentenyl adenosine(37)-C2)-methylthiotransferase MiaB,45,50,35,29467.88,5140.703200000004
+1353,malate dehydrogenase (quinone),38,50,19,48804.94,5517.671773684211
+1354,M23 family metallopeptidase,40,50,27,138924.1,10905.005077777778
+1355,metalloregulator ArsR/SmtB family transcription factor,27,50,14,13713.99,3689.479428571428
+1356,glycoside hydrolase family 3 protein,44,50,25,13713.99,1959.2557160000003
+1357,penicillin-binding protein,42,50,28,38833.58,4432.694742857142
+1358,membrane protein insertion efficiency factor YidD,47,50,29,28780.5,3292.346368965517
+1359,TOBE domain-containing protein,33,50,18,27872.66,3560.734338888889
+1360,beta-ketoacyl-[acyl-carrier-protein] synthase family protein,45,50,14,12723.6,2878.9353642857145
+1361,DUF5703 family protein,28,50,16,138924.1,10635.04789375
+1362,hypothetical protein,38,50,21,9721.919,3749.0032
+1363,OB-fold nucleic acid binding domain-containing protein,32,50,24,28780.5,4219.287962500001
+1364,DUF3145 domain-containing protein,37,50,28,38833.58,3890.0398571428573
+1365,Fe-S cluster assembly protein HesB,37,50,17,138924.1,12069.640047058827
+1366,multidrug efflux SMR transporter,27,50,8,2962.843,1393.4432749999999
+1367,MoxR family ATPase,28,50,19,9300.843,2738.374721052632
+1368,enoyl-CoA hydratase,36,50,9,38833.58,5796.362755555556
+1369,ATP-binding cassette domain-containing protein,31,50,14,29467.88,5155.637542857143
+1370,YbdD/YjiX family protein,26,50,19,65884.11,5661.006568421053
+1371,GNAT family N-acetyltransferase,34,50,24,10894.72,1997.3647374999991
+1372,molybdopterin-dependent oxidoreductase,37,50,20,8485.756,1837.4620649999997
+1373,nucleoside/nucleotide kinase family protein,30,50,18,13713.99,2290.034066666667
+1374,SMC-Scp complex subunit ScpB,44,50,11,29467.88,6010.825118181819
+1375,3-oxoacyl-ACP reductase FabG,28,50,13,13713.99,5225.721661538461
+1376,TetR/AcrR family transcriptional regulator,35,50,19,29467.88,5823.961694736844
+1377,beta-eliminating lyase-related protein,35,50,21,9852.15,2533.717347619048
+1378,M56 family metallopeptidase,26,50,21,198956.2,11368.261947619047
+1379,BlaI/MecI/CopY family transcriptional regulator,37,50,21,16271.57,2229.2261190476183
+1380,TrkA family potassium uptake protein,32,50,21,13713.99,4186.626990476191
+1381,TrkA family potassium uptake protein,32,50,20,16739.64,3607.4524999999994
+1382,hypothetical protein,35,50,22,28780.5,4155.424922727272
+1383,nicotinamide riboside transporter PnuC,28,50,11,17718.99,2868.5883
+1384,dephospho-CoA kinase,48,50,24,18247.98,2683.4693125
+1385,OsmC family peroxiredoxin,26,50,13,138924.1,23069.48600769231
+1386,enoyl-ACP reductase FabI,32,50,14,2730.077,1296.2246928571428
+1387,sulfite exporter TauE/SafE family protein,25,50,9,4270.735,2088.3128333333334
+1388,acetyl-CoA C-acetyltransferase,31,50,17,3428.529,1233.7093647058823
+1389,hypothetical protein,31,50,29,18247.98,5179.169837931034
+1390,DUF3090 domain-containing protein,29,50,19,13713.99,4018.4058421052637
+1391,proteasome subunit beta,29,50,18,28780.5,4200.963805555556
+1392,proteasome subunit alpha,27,50,22,74987.35,6128.459154545454
+1393,exonuclease SbcCD subunit D,26,50,15,29467.88,4337.763900000002
+1394,DEDD exonuclease domain-containing protein,27,50,18,24647.41,2636.7767944444445
+1395,adenosylmethionine--8-amino-7-oxononanoate transaminase,25,50,13,2962.843,1534.3262923076923
+1396,8-amino-7-oxononanoate synthase,29,50,21,27872.66,3342.067004761905
+1397,dethiobiotin synthase,25,50,17,27872.66,4683.807935294118
+1398,FAD-binding dehydrogenase,37,50,22,4831.423,1919.5846909090913
+1399,AIM24 family protein,29,50,11,13713.99,2962.4503999999997
+1400,threonine synthase,32,50,16,4325.003,1545.4645375
+1401,NUDIX domain-containing protein,26,50,13,4270.735,1905.225107692308
+1402,TetR/AcrR family transcriptional regulator,29,50,21,38833.58,4484.020514285715
+1403,ABC transporter ATP-binding protein,33,50,14,29467.88,6410.770007142857
+1404,uracil-DNA glycosylase,25,50,18,4615.4,2193.5604055555564
+1405,SufE family protein,25,50,14,3333.338,1776.2848357142861
+1406,DUF853 family protein,30,50,17,29467.88,4675.807494117647
+1407,ATP-dependent DNA ligase,26,50,13,198956.2,17310.270292307694
+1408,Ku protein,33,50,21,3428.529,1190.0198714285714
+1409,pyridoxamine 5'-phosphate oxidase,38,50,19,13713.99,2078.292652631579
+1410,SGNH/GDSL hydrolase family protein,30,50,17,15418.56,3002.983517647059
+1411,PAS domain-containing sensor histidine kinase,41,50,18,13713.99,3002.653922222222
+1412,acyl-CoA dehydrogenase,29,50,21,28780.5,2641.7023761904757
+1413,GtrA family protein,32,50,15,2962.843,1471.9626199999998
+1414,adenylate/guanylate cyclase domain-containing protein,38,50,23,48804.94,6710.542404347826
+1415,MoxR family ATPase,29,50,20,48804.94,6227.213570000001
+1416,phospho-sugar mutase,44,50,30,17253.57,3628.2906433333337
+1417,aldo/keto reductase family protein,36,50,22,66470.78,4317.01325
+1418,GlsB/YeaQ/YmgE family stress response membrane protein,32,50,18,5485.32,1756.7087944444447
+1419,HNH endonuclease,29,50,21,138924.1,9575.529842857142
+1420,DUF456 domain-containing protein,26,50,17,13713.99,2899.297382352941
+1421,CGNR zinc finger domain-containing protein,28,50,15,12351.13,2474.707819999999
+1422,YbjN domain-containing protein,25,50,21,18247.98,3883.1414904761905
+1423,AzlC family ABC transporter permease,28,50,19,27872.66,2378.1015263157897
+1424,asparaginase,25,50,17,74987.35,9092.98091176471
+1425,VIT family protein,27,50,20,13713.99,2766.14572
+1426,FAD-dependent oxidoreductase,36,50,23,13713.99,3934.923373913043
+1427,acyl-CoA dehydrogenase family protein,26,50,11,138924.1,15231.136445454547
+1428,acyl-CoA dehydrogenase family protein,26,50,11,13713.99,3013.826927272727
+1429,iron chelate uptake ABC transporter family permease subunit,24,50,16,13713.99,2919.6330562499998
+1430,MaoC family dehydratase,33,50,19,8922.646,2196.467426315789
+1431,ABC transporter ATP-binding protein/permease,41,50,17,17253.57,4020.874664705882
+1432,2-oxo acid dehydrogenase subunit E2,31,50,10,5485.32,2620.551
+1433,NUDIX hydrolase,26,50,17,38833.58,4175.366911764707
+1434,TetR family transcriptional regulator,30,50,22,198956.2,12260.960568181821
+1435,(deoxy)nucleoside triphosphate pyrophosphohydrolase,31,50,15,13713.99,3328.3056599999995
+1436,bifunctional hydroxymethylpyrimidine kinase/phosphomethylpyrimidine kinase,33,50,17,74987.35,7013.666323529414
+1437,ABC transporter permease,31,50,11,8782.157,2608.6801363636364
+1438,CoA transferase,31,50,17,3174.797,1065.1558176470587
+1439,YafY family transcriptional regulator,51,50,25,8922.646,1825.9904120000003
+1440,CDP-alcohol phosphatidyltransferase family protein,27,50,10,8922.646,1985.93707
+1441,thioredoxin domain-containing protein,28,50,13,27872.66,3233.331353846154
+1442,histidine kinase,31,50,23,28780.5,4599.8363565217405
+1443,response regulator transcription factor,33,50,18,66470.78,5495.075311111112
+1444,amidohydrolase,25,50,14,198956.2,19657.327371428575
+1445,bacterial proteasome activator family protein,28,50,13,9721.919,2513.730707692308
+1446,NAD(P)H-dependent oxidoreductase,26,50,17,74987.35,6880.978847058824
+1447,TetR/AcrR family transcriptional regulator,29,50,15,8922.646,2583.7514866666666
+1448,methylcrotonoyl-CoA carboxylase,30,50,22,13713.99,4308.284136363636
+1449,acyl-CoA dehydrogenase family protein,29,50,13,17253.57,4632.392853846154
+1450,zinc-dependent metalloprotease,32,50,20,38833.58,5118.788735
+1451,acetoin utilization protein AcuC,28,50,16,4876.735,1422.5645000000002
+1452,MaoC family dehydratase N-terminal domain-containing protein,37,50,23,38833.58,5304.199526086958
+1453,APC family permease,32,50,22,16739.64,2798.3208409090917
+1454,3-oxoacyl-ACP reductase,30,50,13,68804.91,7237.922276923079
+1455,MarR family transcriptional regulator,28,50,18,13713.99,3015.415938888889
+1456,ATP-grasp domain-containing protein,30,50,15,9492.083,2943.343353333333
+1457,sugar phosphate isomerase/epimerase,26,50,14,3333.338,1553.722592857143
+1458,hypothetical protein,30,50,19,4876.735,1842.0672315789473
+1459,arginine deiminase,33,50,17,8922.646,1952.0541823529416
+1460,hypothetical protein,26,50,15,28780.5,4804.160440000001
+1461,GNAT family N-acetyltransferase,32,50,24,74987.35,7425.3110166666675
+1462,insulinase family protein,30,50,16,9721.919,2023.8624625000004
+1463,NAD-glutamate dehydrogenase,27,50,13,16770.32,2861.3264153846153
+1464,coenzyme F420-0:L-glutamate ligase,34,50,20,38833.58,3978.0370799999996
+1465,aspartate aminotransferase family protein,40,50,17,21732.38,4489.695135294118
+1466,50S ribosomal protein L33,24,50,10,13713.99,3566.97563
+1467,type Z 30S ribosomal protein S14,25,50,23,23787.35,2760.8800608695647
+1468,50S ribosomal protein L28,25,50,18,16770.32,4438.848822222224
+1469,LCP family protein,28,50,17,27872.66,5422.499170588235
+1470,NADH-quinone oxidoreductase subunit NuoK,28,50,13,7973.084,2075.9700692307697
+1471,NADH-quinone oxidoreductase subunit A,28,50,12,2943.461,1248.4662833333332
+1472,peptide deformylase,30,50,22,27872.66,3087.603554545455
+1473,response regulator transcription factor,27,50,21,37878.25,6592.650038095238
+1474,response regulator transcription factor,25,50,15,12351.13,2848.3954533333326
+1475,DUF4244 domain-containing protein,25,50,13,38833.58,5179.7107230769225
+1476,type II toxin-antitoxin system VapB family antitoxin,26,50,15,138924.1,14215.045093333336
+1477,hypothetical protein,31,50,19,138924.1,10868.85970526316
+1478,carbohydrate kinase,31,50,17,66470.78,8616.871458823529
+1479,GAF domain-containing protein,33,50,15,13713.99,3665.4592333333335
+1480,NADH-quinone oxidoreductase subunit NuoH,27,50,10,6680.689,1590.91882
+1481,NADH-quinone oxidoreductase subunit NuoI,27,50,10,29467.88,8517.27857
+1482,NADH-quinone oxidoreductase subunit L,28,50,9,66470.78,12681.971311111112
+1483,NADH-quinone oxidoreductase subunit M,28,50,17,211093.9,13825.594188235294
+1484,NADH-quinone oxidoreductase subunit NuoN,27,50,11,211093.9,21585.059390909093
+1485,cardiolipin synthase,30,50,11,38833.58,4854.728345454546
+1486,aldose 1-epimerase family protein,33,50,20,18180.95,4015.9412800000005
+1487,NADH-quinone oxidoreductase subunit NuoF,27,50,16,13713.99,1945.0612312500002
+1488,SDR family oxidoreductase,33,50,16,13713.99,3576.3321687500006
+1489,PH domain-containing protein,31,50,22,16739.64,2677.9532454545456
+1490,Re/Si-specific NAD(P)(+) transhydrogenase subunit alpha,30,50,20,9492.083,2195.588735
+1491,Re/Si-specific NAD(P)(+) transhydrogenase subunit beta,26,50,12,8922.646,1530.646566666667
+1492,mycofactocin radical SAM maturase,24,50,15,211093.9,15318.402859999998
+1493,NADH-quinone oxidoreductase subunit C,26,50,18,13713.99,4146.255511111111
+1494,NADH-quinone oxidoreductase subunit D,28,50,6,2752.447,1795.7746500000003
+1495,NADH-quinone oxidoreductase subunit J,28,50,20,12351.13,2989.398465
+1496,NAD-dependent deacylase,27,50,16,13713.99,2941.2781437500003
+1497,glycoside hydrolase family 13 protein,38,50,24,27872.66,2491.1775874999994
+1498,sirohydrochlorin chelatase,29,50,21,65884.11,6647.804995238095
+1499,GH1 family beta-glucosidase,30,50,20,10894.72,1873.0177550000003
+1500,GNAT family N-acetyltransferase,24,50,15,13713.99,2592.7759600000004
+1501,MFS transporter,38,50,31,138924.1,12571.04500967742
+1502,DUF1304 domain-containing protein,28,50,18,49376.54,7453.9723111111125
+1503,low temperature requirement protein A,28,50,16,65884.11,9401.86113125
+1504,adenosine deaminase,33,50,19,13713.99,1715.477347368421
+1505,alpha/beta hydrolase,31,50,16,38833.58,4603.62215
+1506,NADH-quinone oxidoreductase subunit B,28,50,12,8697.46,2100.3057
+1507,NAD(P)/FAD-dependent oxidoreductase,26,50,13,4270.735,1748.8478461538468
+1508,ABC transporter substrate-binding protein,25,50,9,27872.66,6635.642511111111
+1509,alpha/beta hydrolase,29,50,21,13713.99,2731.445957142857
+1510,DUF6328 family protein,29,50,23,28780.5,3168.6185782608695
+1511,TraR/DksA C4-type zinc finger protein,27,50,20,66470.78,6246.67662
+1512,single-stranded DNA-binding protein,25,50,17,68804.91,9488.771958823529
+1513,type I methionyl aminopeptidase,34,50,23,49376.54,5123.683926086957
+1514,uroporphyrinogen-III synthase,25,50,17,38833.58,4765.415094117649
+1515,2-phospho-L-lactate transferase,28,50,17,28780.5,5208.223441176472
+1516,5'-3' exonuclease,33,50,20,138924.1,11468.286485000002
+1517,Fpg/Nei family DNA glycosylase,34,50,23,48804.94,8462.191073913044
+1518,amidase,44,50,27,49376.54,6499.279118518518
+1519,NADP-dependent oxidoreductase,36,50,26,18247.98,3854.172661538462
+1520,sigma-70 family RNA polymerase sigma factor,42,50,24,941334.2,43200.35354583333
+1521,nitroreductase family deazaflavin-dependent oxidoreductase,29,50,14,7973.084,2839.9654142857144
+1522,YdeI/OmpD-associated family protein,27,50,16,8323.257,1931.4982687500003
+1523,PadR family transcriptional regulator,29,50,14,10894.72,2685.2815857142855
+1524,PadR family transcriptional regulator,32,50,16,138924.1,13054.88996875
+1525,Nramp family divalent metal transporter,24,50,17,13072.54,2939.0429529411763
+1526,organic hydroperoxide resistance protein,25,50,15,3428.529,1552.8023199999998
+1527,APC family permease,37,50,21,13713.99,2693.7039666666665
+1528,cation:dicarboxylase symporter family transporter,26,50,11,37878.25,5572.753727272727
+1529,RNA polymerase sigma factor SigF,30,50,19,211093.9,16743.844921052627
+1530,LLM class F420-dependent oxidoreductase,25,50,12,302785.5,31330.826033333335
+1531,PH domain-containing protein,45,50,22,37878.25,3716.882681818183
+1532,DUF308 domain-containing protein,27,50,14,6565.992,1770.5449142857144
+1533,ATP-dependent DNA ligase,32,50,12,9300.843,2026.2370000000003
+1534,galactose-1-phosphate uridylyltransferase,26,50,15,46858.52,5683.691333333334
+1535,DNA-3-methyladenine glycosylase 2 family protein,28,50,18,38833.58,7095.90298888889
+1536,amidohydrolase family protein,27,50,14,211093.9,19988.157457142857
+1537,PHP domain-containing protein,28,50,20,38833.58,5874.562415
+1538,non-homologous end-joining DNA ligase,30,50,13,13713.99,3709.7556846153843
+1539,winged helix DNA-binding domain-containing protein,26,50,22,49376.54,6078.613990909091
+1540,metalloregulator ArsR/SmtB family transcription factor,31,50,18,13713.99,2566.4294944444446
+1541,glucose-6-phosphate dehydrogenase (coenzyme-F420),32,50,14,138924.1,11484.578971428567
+1542,aldo/keto reductase,28,50,17,8485.756,1853.5830529411764
+1543,hypothetical protein,26,50,10,2752.447,1264.0989599999998
+1544,acyl-CoA desaturase,32,50,16,27872.66,4192.4050625
+1545,Rv2578c family radical SAM protein,29,50,18,38833.58,4714.7600999999995
+1546,decarboxylating 6-phosphogluconate dehydrogenase,30,50,24,138924.1,10846.019220833334
+1547,iron chelate uptake ABC transporter family permease subunit,30,50,23,12351.13,3158.613834782608
+1548,PQQ-dependent sugar dehydrogenase,26,50,20,38833.58,4683.201030000002
+1549,cation diffusion facilitator family transporter,32,50,14,28780.5,3860.4552214285713
+1550,EfeM/EfeO family lipoprotein,27,50,20,211093.9,15933.51403
+1551,mycothiol system anti-sigma-R factor,44,50,29,13713.99,3714.2903310344836
+1552,NADH-quinone oxidoreductase subunit G,27,50,11,13072.54,2309.489463636364
+1553,pyridoxal kinase PdxY,36,50,16,138924.1,10079.28430625
+1554,CDGSH iron-sulfur domain-containing protein,30,50,22,8575.808,2090.5791545454545
+1555,DUF2277 domain-containing protein,33,50,17,3428.529,1723.4105058823532
+1556,ComEA family DNA-binding protein,43,50,25,29467.88,5618.4272999999985
+1557,low molecular weight phosphatase family protein,27,50,19,27872.66,3522.718684210527
+1558,iron-containing redox enzyme family protein,30,50,19,3428.529,1080.176421052632
+1559,metalloregulator ArsR/SmtB family transcription factor,37,50,17,2883.764,1160.7222058823527
+1560,saccharopine dehydrogenase NADP-binding domain-containing protein,27,50,18,198956.2,23423.250483333333
+1561,exodeoxyribonuclease V subunit gamma,25,50,15,17718.99,3951.859746666667
+1562,exodeoxyribonuclease V subunit alpha,25,50,17,6680.689,1811.0035823529415
+1563,glutamine amidotransferase,24,50,14,28780.5,6037.1879285714285
+1564,AarF/UbiB family protein,32,50,22,38833.58,5104.314018181818
+1565,preprotein translocase subunit YajC,42,50,23,68804.91,7005.860913043479
+1566,ABC transporter ATP-binding protein/permease,25,50,19,28780.5,4075.6240157894736
+1567,50S ribosomal protein L32,48,50,29,13713.99,3217.9919758620686
+1568,PLD nuclease N-terminal domain-containing protein,28,50,16,941334.2,95445.82823124997
+1569,DUF1697 domain-containing protein,30,50,18,13713.99,3131.4876499999996
+1570,YhgE/Pip domain-containing protein,36,50,23,38833.58,6954.284504347825
+1571,sensor histidine kinase KdpD,26,50,12,4615.4,1508.6978416666668
+1572,isopentenyl-diphosphate Delta-isomerase,25,50,14,1743.107,976.5409285714285
+1573,energy-coupling factor ABC transporter ATP-binding protein,25,50,15,38833.58,4848.442013333333
+1574,DUF2236 domain-containing protein,30,50,16,198956.2,21237.701668750004
+1575,N-acetylmuramoyl-L-alanine amidase,27,50,14,4860.206,1824.9127357142859
+1576,isochorismatase family protein,40,50,22,2752.447,1077.6957000000002
+1577,ABC transporter ATP-binding protein,29,50,20,13713.99,4356.2169
+1578,methyltransferase,27,50,18,38833.58,4506.641577777777
+1579,septum formation initiator family protein,33,50,20,65884.11,6600.178850000001
+1580,TrkA family potassium uptake protein,35,50,13,13713.99,3375.337146153846
+1581,ABC transporter ATP-binding protein/permease,26,50,23,50885.97,4122.975895652175
+1582,YifB family Mg chelatase-like AAA ATPase,44,50,28,66470.78,9790.258521428568
+1583,PrsW family intramembrane metalloprotease,29,50,18,28780.5,2848.765955555556
+1584,trehalose-phosphatase,34,50,22,65884.11,9723.622845454542
+1585,SGNH/GDSL hydrolase family protein,34,50,18,8962.093,2337.407338888889
+1586,aminotransferase class I/II-fold pyridoxal phosphate-dependent enzyme,45,50,28,28780.5,5933.069300000001
+1587,murein biosynthesis integral membrane protein MurJ,27,50,20,138924.1,12898.780904999998
+1588,aquaporin family protein,27,50,9,2752.447,1401.6688444444444
+1589,DMT family transporter,32,50,16,302785.5,39639.493225000006
+1590,replicative DNA helicase,31,50,17,38833.58,7124.3948058823535
+1591,homoserine dehydrogenase,45,50,32,28780.5,5638.644618750001
+1592,L-lactate dehydrogenase,26,50,19,28780.5,4387.26272631579
+1593,hypothetical protein,33,50,25,27872.66,3590.8744800000004
+1594,protein phosphatase 2C domain-containing protein,31,50,25,27872.66,4590.794500000001
+1595,ABC transporter permease,32,50,22,6832.989,2301.189127272727
+1596,ABC transporter permease,33,50,21,4270.735,1243.4781428571428
+1597,BMP family ABC transporter substrate-binding protein,33,50,20,138924.1,16869.130475
+1598,PH domain-containing protein,28,50,17,8485.756,2550.317205882353
+1599,cyclic pyranopterin monophosphate synthase MoaC,39,50,27,66470.78,6607.136507407407
+1600,vitamin K epoxide reductase family protein,40,50,25,29467.88,3510.3963360000007
+1601,hypothetical protein,27,50,18,3428.529,1402.7713444444444
+1602,DUF4129 domain-containing protein,27,50,19,46858.52,6386.636163157895
+1603,DUF58 domain-containing protein,27,50,15,4545.701,1521.8082066666668
+1604,RDD family protein,27,50,19,28780.5,4920.953131578947
+1605,stage II sporulation protein M,26,50,16,68804.91,7482.848643750002
+1606,fructosamine kinase family protein,32,50,21,13713.99,2961.4715047619047
+1607,DUF4032 domain-containing protein,25,50,11,1939.964,1075.760890909091
+1608,DUF885 domain-containing protein,34,50,17,9300.843,2221.0922823529413
+1609,DUF4350 domain-containing protein,27,50,20,198956.2,18396.937500000004
+1610,NAD(+) synthase,24,50,15,17253.57,3774.77312
+1611,NTP transferase domain-containing protein,27,50,16,65884.11,6042.97825625
+1612,FKBP-type peptidyl-prolyl cis-trans isomerase,34,50,23,65884.11,6812.508965217389
+1613,bifunctional proline dehydrogenase/L-glutamate gamma-semialdehyde dehydrogenase,30,50,20,211093.9,13424.49118
+1614,DUF2183 domain-containing protein,28,50,23,138924.1,9851.356817391305
+1615,MFS transporter,32,50,21,18247.98,2887.915652380953
+1616,DNA recombination protein RmuC,33,50,24,18247.98,4767.615737500001
+1617,M3 family metallopeptidase,26,50,11,38833.58,10008.320763636364
+1618,thymidine kinase,24,50,18,94590.41,12823.809522222225
+1619,hypothetical protein,25,50,21,66470.78,7100.830985714285
+1620,TrkH family potassium uptake protein,39,50,22,16271.57,2575.8481772727273
+1621,helix-turn-helix transcriptional regulator,30,50,15,13713.99,2394.844786666667
+1622,hypothetical protein,28,50,24,27872.66,4218.46775
+1623,class E sortase,32,50,21,28780.5,5912.166352380954
+1624,mannose-1-phosphate guanylyltransferase,28,50,15,3039.246,1501.2281333333337
+1625,SURF1 family protein,25,50,16,9300.843,1515.2377125
+1626,DUF3662 domain-containing protein,31,50,21,138924.1,11704.039490476189
+1627,HU family DNA-binding protein,24,50,8,66470.78,10197.372925000001
+1628,hypothetical protein,26,50,21,10616.46,2204.454195238096
+1629,SseB family protein,27,50,16,13713.99,2504.8027187499997
+1630,hypothetical protein,25,50,16,13713.99,4318.294612499999
+1631,sodium-dependent transporter,26,50,11,12723.6,2943.7753181818184
+1632,type IIA DNA topoisomerase subunit B,25,50,15,29467.88,2896.981446666666
